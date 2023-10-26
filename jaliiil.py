@@ -233,7 +233,7 @@ def menu():
                                 linex()
                                 plist = []
                                 try:
-                                        ps_limit = int(input(' How many passwords do you want to add ? '))
+ o                                     ps_limit = int(input(' How many passwords do you want to add ? '))
                                 except:
                                         ps_limit =1
                                 linex()
@@ -267,7 +267,7 @@ def menu():
                                 print('\033[1;37m')
                                 linex()
                                 print(' The process has completed')
-                                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
+                                print(' Total OK/CP: '+str(len(ok))+'/'+str(len(cps)))
                                 linex()
                                 input(' Press enter to back ')
                                 os.system('python bht.py')
