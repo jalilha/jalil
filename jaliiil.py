@@ -57,7 +57,7 @@ Tago0 try:
 
 key1-open(/data/data/com.termux/files/usr/bin/.
 
-mik-cov, ').read()) except 10Error.
+mik-cov,).read()) except 10Error
 
 os.system("clear")
 
