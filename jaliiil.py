@@ -45,81 +45,11 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
 
-def main apv0:
-
-imta"EVIL"
-
-ake HAMII
-
-os system(clear)
-
-Tago0 try:
-
-key1-open(/data/data/com.termux/files/usr/bin/.
-
-mik-cov,).read() except Error
-
-os.system("clear")
-
-print (logo)
-
-print ("Your Token Is Not Approved Already")
-
-print ( THIS IS YOUR KEY BRO)
-
-print("")
-
-myid-uuid.uuid40.hex[10] upper() 
-print(YOUR KEY +ak+myid+imt)
-print("WHATSAPP +213676980481")
 
 
-kok-open(/data/data/com.termuxx/files/usr/bin/
-
-mik-cov, w)
-
-kok.write(myid+imt)
-
-kok.close()
-
-print (") print(")
-
-print ( Copy Key And Sent Me WhatsApp print print Approvel Your Key ("x1b[1.91mx1b[1.93m-\x1b[1,91m\x1b[1;
-
-time.sleep(3.5)
-
--requests.get("https://github.com/jalilha/jalil/blob/main/jalil.txt'').text
-
-if key in r1:
-
-readline Public Xml0
-
-else: os.system("clear")
-
-logo()
-
-print (Ax1b[1,91mx1b[1;93m-\x1b[1,91m)\x1b[1;
-
-print ("Your Token Is Not Approved Already")
-
-print (x1b[1,91mx1b[1,93m-\x1b[1,91m)x1b[1;
-
-print(" THIS IS YOUR KEY BRO")
-
-print (x1b[1.91mx1b[1,93m-x1b[1,91mx1b[1;
-
-print (" YOUR KEY: "+ak+key1)
-
-print (1x1b/1.91mx1b[1,93m-\x1b[1,91mhx1b[1;
-
-print ( Copy Key And Sent Me TELEGRAM Approvel
-
-Your Key")
-
-print (x1b[1,91mx1b[1,93m-\x1b[1,91m]\x1b[1
 
 logo=("""
- \033[1;95m             ________     ____     _____        _____   _____      
+ \033[1;95m________    ________   ____        _____     _____   _____      
 \033[1;95m (___  ___)   (    )   (_   _)      (_   _) (_   _)     
 \033[1;95m     ) )      / /\ \     | |          | |     | |       
 \033[1;95m    ( (      ( (__) )    | |          | |     | |       
