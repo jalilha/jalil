@@ -1,4 +1,5 @@
-# Decompile by Mardis (Tools By Jalil)
+m
+Decompile by Mardis (Tools By Jalil)
 # Time Succes decompile : 2023-01-01 09:30:57.607344
 
 from os import path
@@ -56,8 +57,8 @@ logo=("""
 \33[1;32m───────────────────────────────────────────────────────
 \033[1;95m[\033[1;93m[‌>]\033[1;95m]\033[1;93m TELEGRAM  \033[1;91m : \033[1;95mitzjalil0
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m FACEBOcp\033[1;91m : \033[1;95mH. M. Jalil
-\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TOOLS   \033[1;91m : \033[1;95mJaliiil
-\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1\33[1;32m───────────────────────────────────────────────────────""")
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TOOLS   \033[1;91m : \033[1;95mFREE
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1\33[1;32m ─────────────────────────────""")
 
 def linex():
         print('\033[1;37m----------------------------------------------')
@@ -193,7 +194,7 @@ def public():
                 print('\033[1;37m')
                 linex()
                 print(' The process has completed')
-                print(' Total cp/CP: '+str(len(cps))+'/'+str(len(cps)))
+                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
                 os.system('python bht.py')
@@ -266,7 +267,7 @@ def menu():
                                 print('\033[1;37m')
                                 linex()
                                 print(' The process has completed')
-                                print(' Total cp/CP: '+str(len(cps))+'/'+str(len(cps)))
+                                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                                 linex()
                                 input(' Press enter to back ')
                                 os.system('python bht.py')
@@ -345,7 +346,7 @@ def pak():
                 print('\033[1;37m')
                 linex()
                 print(' The process has completed')
-                print(' Total cp/CP: '+str(len(cps))+'/'+str(len(cps)))
+                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
                 os.system('python bht.py')
@@ -375,7 +376,7 @@ def bd():
                 print('\033[1;37m')
                 linex()
                 print(' The process has completed')
-                print(' Total cp/CP: '+str(len(cps))+'/'+str(len(cps)))
+                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
                 os.system('python bht.py')
@@ -430,13 +431,13 @@ def gmail():
                 print('\033[1;37m')
                 linex()
                 print(' The process has completed')
-                print(' Total cp/CP: '+str(len(cps))+'/'+str(len(cps)))
+                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
                 os.system('python bht.py')
 def ffb(ids,names,passlist):
         global loop,cps,cps
-        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mcp:-%s \033[1;37m'%(loop,len(cps)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mok:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(' ')[0]
@@ -478,7 +479,7 @@ xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT
 def api(ids,names,passlist):
                 try:
                         global cp,loop
-                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mcp:-%s \033[1;37m'%(loop,len(cps)));sys.stdout.flush()
+                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mok:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         fn = names.split(' ')[0]
                         try:
                                 ln = names.split(' ')[1]
@@ -548,7 +549,7 @@ def api(ids,names,passlist):
 def api1(ids,names,passlist):
                 try:
                         global cp,loop
-                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mcp:-%s \033[1;37m'%(loop,len(cps)));sys.stdout.flush()
+                        sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mok:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         fn = names.split(' ')[0]
                         try:
                                 ln = names.split(' ')[1]
