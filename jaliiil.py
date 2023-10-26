@@ -67,7 +67,7 @@ print ("Your Token Is Not Approved Already")
 
 print ( THIS IS YOUR KEY BRO)
 
-93m print("")
+print("")
 
 myid-uuid.uuid40.hex[10] upper() 
 print("YOUR KEY +ak+myid+imt)
