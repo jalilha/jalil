@@ -45,13 +45,13 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
 logo=("""
-              ________     ____     _____        _____   _____      
- (___  ___)   (    )   (_   _)      (_   _) (_   _)     
-     ) )      / /\ \     | |          | |     | |       
-    ( (      ( (__) )    | |          | |     | |       
- __  ) )      )    (     | |   __     | |     | |   __  
-( (_/ /      /  /\  \  __| |___) )   _| |__ __| |___) ) 
- \___/      /__(  )__\ \________/   /_____( \________/  
+ \033[1;95m             ________     ____     _____        _____   _____      
+\033[1;95m (___  ___)   (    )   (_   _)      (_   _) (_   _)     
+\033[1;95m     ) )      / /\ \     | |          | |     | |       
+\033[1;95m    ( (      ( (__) )    | |          | |     | |       
+\033[1;95m __  ) )      )    (     | |   __     | |     | |   __  
+\033[1;95m( (_/ /      /  /\  \  __| |___) )   _| |__ __| |___) ) 
+\033[1;95m \___/      /__(  )__\ \________/   /_____( \________/  
  \033[1;32m───────────────────────────────────────────────────────
 \033[1;95m[\033[1;93m[‌>]\033[1;95m]\033[1;93m TELEGRAM  \033[1;91m : \033[1;95mitzjalil0
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m FACEBOOK\033[1;91m : \033[1;95mH. M. JALIL
@@ -137,9 +137,9 @@ def public():
                 kl = input(f'\033[1;37m Put link no.{yz+0}: ')
                 usrr.append(kl)
         linex()
-        print(' All method working try 1 by 1 ')
+        print(' All method working try  ')
         linex()
-        print(' [1] Method 1 (for new ids) \n [2] Method 2 (for old ids)\n [3] Method 3 (for old ids)')
+        print(' [1] Method 1 (for new ids) \n [2] Method 2 (for mix ids)\n [3] Method 3 (for old ids)')
         linex()
         mthd = input(' Choose method: ')
         linex()
@@ -211,7 +211,7 @@ def menu():
         #       chk()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [6] WhatsApp Group (join)\n [7] Download Vpn\n [8] How To Use Video\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [0] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
@@ -228,7 +228,7 @@ def menu():
                                 clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
-                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for old ids)\n [3] Method 3 (for old ids)')
+                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for mix ids)\n [3] Method 3 (for old ids)')
                                 linex()
                                 mthd=input(' Choose: ')
                                 linex()
