@@ -63,8 +63,6 @@ os.system("clear")
 
 print (logo)
 
-print (x1b[1.9mx1b[1.93m-x1b[1,91mx
-
 print ("Your Token Is Not Approved Already")
 
 print (x1b[1.91mx1b[1,93mx1b[1,91mx1b[1;
