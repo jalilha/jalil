@@ -70,7 +70,7 @@ print ( THIS IS YOUR KEY BRO)
 print("")
 
 myid-uuid.uuid40.hex[10] upper() 
-print("YOUR KEY +ak+myid+imt)
+print(YOUR KEY +ak+myid+imt)
 print("WHATSAPP +213676980481")
 
 
