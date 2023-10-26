@@ -1,4 +1,4 @@
-Decompile by Mardis (Tools By Jalil)
+# Decompile by Mardis (Tools By Jalil)
 # Time Succes decompile : 2023-01-01 09:30:57.607344
 
 from os import path
