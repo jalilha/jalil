@@ -65,15 +65,14 @@ print (logo)
 
 print ("Your Token Is Not Approved Already")
 
-print (x1b[1.91mx1b[1,93mx1b[1,91mx1b[1;
-
 print ( THIS IS YOUR KEY BRO')
 
 93m print("")
 
-myid-uuid.uuid40.hex[10] upper() print("YOUR KEY +ak+myid+imt) print("WHATSAPP +213676980481")
+myid-uuid.uuid40.hex[10] upper() 
+print("YOUR KEY +ak+myid+imt)
+print("WHATSAPP +213676980481")
 
-print(x1b1.91mx1b[1.93m-x1b[1,91mx1b[1;
 
 kok-open(/data/data/com.termuxx/files/usr/bin/
 
