@@ -65,7 +65,7 @@ print (logo)
 
 print ("Your Token Is Not Approved Already")
 
-print ( THIS IS YOUR KEY BRO')
+print ( THIS IS YOUR KEY BRO)
 
 93m print("")
 
