@@ -267,7 +267,7 @@ def menu():
                                 print('\033[1;37m')
                                 linex()
                                 print(' The process has completed')
-                                print(' Total OK/CP: '+str(len(ok))+'/'+str(len(cps)))
+                                print(' Total OK/CP: '+str(len(os))+'/'+str(len(cps)))
                                 linex()
                                 input(' Press enter to back ')
                                 os.system('python bht.py')
