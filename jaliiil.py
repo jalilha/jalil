@@ -155,7 +155,8 @@ device = {
         'fbdm':fbdm}
 os.system('xdg-open https://www.facebook.com/profile.php?id=100095345508213')
 #####_____RANDOM-UA_____#####
-
+def Rnd():
+	ua = a+b
 	return ua
 ##______COLORS____ARE________######
 pwx=[]
