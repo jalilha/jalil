@@ -25,11 +25,11 @@ exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x0
 
 try:
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
-    open('proxies.txt','w').write(proxies)
+    open('proxy.txt','w').write(proxies)
 except Exception as e:
     print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIIIL UPDATE...')
 	
-proxies=open('proxies.txt','r').read().splitlines()
+proxies=open('proxy.txt','r').read().splitlines()
 
 
 android_models=[]
@@ -248,7 +248,7 @@ def approval():
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
   try:
-    httpCaht = get_response('https://github.com/jalilha/jalil/blob/main/jalil.txt')
+    httpCaht = get_response('https://raw.githubusercontent.com/Usmi302/aproval/main/approval.txt')
     if realid in httpCaht:
       #print("\3[1;32m YOUR KEY IS APPROVED.")
       #msg = str(os.geteuid())
@@ -259,16 +259,23 @@ def approval():
       print("\33[1;37m ====================================================")
       print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
       print('\33[1;37m ====================================================')
-      print (" \33[37;41m\t WELCOME TO JALIIIL TOOL AND ENJOY \33[0;m")
+      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
       print('\33[1;37m ====================================================')
-      
+
+      print ("\33[1;37m SEND 400 PKR (FOR 15 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 500 PKR (FOR 30 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m Easy Paisa (03238272402)")
+      print ("\33[1;37m Jazz Cash  (03238272402)")
+      print ("\33[37;41m\t INSHALLAH DAILY LUSH UPDATES \33[0;m")
       input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/213676980481'+tks)
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/923238272402'+tks)
       sys.exit()
       #time.sleep(1)
       #approval()
   except Exception as error:
-    print(error)                        
+    print(error)                                                
 
 
 def menu():
