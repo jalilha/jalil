@@ -17,7 +17,7 @@ except ModuleNotFoundError:
 
 try:
     prox=requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
-	open('proxies.txt','w').write(proxies)
+	open('proxies.txt','w').write()
 except Exception as e:
     print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIL UPDATE...')
 	
