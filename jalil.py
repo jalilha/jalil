@@ -187,7 +187,8 @@ logo=(f"""{YELLOW}
     ( (      ( (__) )    | |          | |     | |       
  __  ) )      )    (     | |   __     | |     | |   __  
 ( (_/ /      /  /\  \  __| |___) )   _| |__ __| |___) ) 
- \___/      /__(  )__\ \________/   /_____( \________/ {GREEN}A {RED}L {WHITE}G
+ \___/      /__(  )__\ \________/   /_____( \________/ 
+{GREEN}A {RED}L {WHITE}G
 
 \t[×] Developed By Jaliiil{EXTRA}
 {WHITE}[•] TELEGRAM    : itzjalil0
@@ -929,7 +930,7 @@ def Auto2F():
 		line()
 		for i in codes:
 			print("\033[1;92m [✓] \033[1;97m\t"+i)
-			open('/sdcard/BALOCH/BALOCH-2F.txt','a').write(id+'|'+ps+'\n'+keys+'\n'+i+'\n')
+			open('/sdcard/JALIIIL-2F.txt','a').write(id+'|'+ps+'\n'+keys+'\n'+i+'\n')
 		if response['Status']=="Error":
 			print("\033[1;91m [×] \033[1;97mFailed")
 			line()
