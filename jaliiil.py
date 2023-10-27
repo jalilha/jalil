@@ -155,10 +155,6 @@ device = {
         'fbdm':fbdm}
 os.system('xdg-open https://www.facebook.com/profile.php?id=100095345508213')
 #####_____RANDOM-UA_____#####
-def Rnd():
-	a = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,318)) +";FBBV/"+str(random.randint(11111111,77777777))
-	b = ";[FBAN/Orca-Android;FBAV/424.0.0.25.113;FBPN/com.facebook.orca;FBLC/en_US;FBBV/510343531;FBCR/Verizon ;FBMF/motorola;FBBD/motorola;FBDV/moto g play - 2023;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1439};FB_FW/1;]"
-	ua = a+b
 	return ua
 ##______COLORS____ARE________######
 pwx=[]
@@ -169,7 +165,8 @@ Y = '\033[93;1m'
 B = '\033[94;1m'
 P = '\033[95;1m'
 S = '\033[96;1m'
-N = '\x1b[0m'
+m
+	= '\x1b[0m'
 PURPLE ='\x1b[38;5;46m'
 RED = '\033[1;91m'
 WHITE = '\033[1;97m'
@@ -193,7 +190,8 @@ logo=(f"""{YELLOW}
 \033[1;95m[\033[1;93m[‌>]\033[1;95m]\033[1;93m TELEGRAM  \033[1;91m : \033[1;95mitzjalil0
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m FACEBOcp\033[1;91m : \033[1;95mH. M. Jalil
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TOOLS   \033[1;91m : \033[1;95mJaliiil
-\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1\33[1;32m───────────────────────────────────────────────────────""")
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1
+\33[1;32m───────────────────────────────────────────────────────""")
 
 def linex():
         print('\033[1;37m----------------------------------------------')
