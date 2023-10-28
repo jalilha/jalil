@@ -217,9 +217,8 @@ def menu():
                         xd=input(' CHOOSE AN OPTION: ')
                         #os.system('xdg-open ')
                         if xd in ['1','01']:
-                                clear() 
-				def clear():
-					os.system('clear')
+                                clear()
+				os.system('clear')
         print(logo)
 loop=0
 oks=[]
