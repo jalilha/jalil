@@ -15,7 +15,7 @@ except ModuleNotFoundError:
 
 try:
     prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
-    open('proxies.txt','w').write(proxy)
+    open('proxies.txt','w').write(proxies)
 except Exception as e:
     print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIIIL UPDATE...')
 	
@@ -23,17 +23,7 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 
 android_models=[]
-try:
-    xx = requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/strings.txt').text.splitlines()
-    for line in xx:
-        android_models.append(line)
-except:pass
 
-usr=[]
-try:
-    xd=requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/ua.txt').text.splitlines()
-    for us in xd:
-        usr.append(us)
 except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
@@ -98,6 +88,70 @@ cps=[]
 pcp=[]
 id=[]
 tokenku=[]
+import pycurl
+from io import BytesIO
+def get_response(url):
+    response_buffer = BytesIO()
+
+    curl = pycurl.Curl()
+    curl.setopt(curl.URL, url)
+    curl.setopt(curl.WRITEDATA, response_buffer)
+
+    try:
+        curl.perform()
+    except pycurl.error as e:
+        return f"Error: {e}"
+
+    response = response_buffer.getvalue().decode('utf-8')
+    curl.close()
+
+    return response
+
+def remove_symbols_and_spaces(input_string):
+    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
+    return cleaned_string
+    
+def approval():
+  os.system('clear')
+  print(logo)
+  import platform
+  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
+  id = remove_symbols_and_spaces(uuid)
+  k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
+  intuid=int(id.split("#")[0])
+  pref=str((intuid-104729)*2-37+(1-2**7))
+  suff=str((intuid-523217)%104729)
+  realid=(suff+k3+k1+k4+k2+pref).encode().hex()
+  try:
+    httpCaht = get_response('https://raw.githubusercontent.com/Usmi302/aproval/main/approval.txt')
+    if realid in httpCaht:
+      #print("\3[1;32m YOUR KEY IS APPROVED.")
+      #msg = str(os.geteuid())
+      pass
+    else:
+      print("\33[1;32m YOUR KEY :\x1b[38;5;46m "+id)
+      print('\33[1;37m ====================================================')
+      print("\33[1;37m ====================================================")
+      print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
+      print('\33[1;37m ====================================================')
+      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
+      print('\33[1;37m ====================================================')
+
+      print ("\33[1;37m SEND 400 PKR (FOR 15 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 500 PKR (FOR 30 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m Easy Paisa (03238272402)")
+      print ("\33[1;37m Jazz Cash  (03238272402)")
+      print ("\33[37;41m\t INSHALLAH DAILY LUSH UPDATES \33[0;m")
+      input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/923238272402'+tks)
+      sys.exit()
+      #time.sleep(1)
+      #approval()
+  except Exception as error:
+    print(error)                        
+
 def login():
         clear()
         cookies = input(' Put cookies: ')
