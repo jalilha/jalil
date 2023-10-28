@@ -218,8 +218,8 @@ def menu():
                         #os.system('xdg-open ')
                         if xd in ['1','01']:
                                 clear()
-				os.system('clear')
-        print(logo)
+os.system('clear')
+print(logo)
 loop=0
 oks=[]
 cps=[]
