@@ -267,15 +267,15 @@ os.system("clear")
 
 print (logo)
 
-print ("\x1b[1.91mx1b[1.93m-x1b[1,91mx")
+print ("\x1b[1.91m1b[1.93m-x1b[1,91mx")
 
 print ("Your Token Is Not Approved Already")
 
-print (x1b[1.91mx1b[1,93mx1b[1,91mx1b[1;
+print (x1b[1.91m1b[1,93m1b[1,91m1b[1;
 
 print ( THIS IS YOUR KEY BRO')
 
-print ('\x1b[1.91mx1b[1.93m-\x1b[1,91mx1b[1;
+print ('\x1b[1.91m1b[1.93m-\x1b[1,91m1b[1;
 
 print("")
 
