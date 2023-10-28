@@ -218,7 +218,7 @@ def menu():
                         #os.system('xdg-open ')
                         if xd in ['1','01']:
                                 clear() 
-def clear():
+				def clear():
 					os.system('clear')
         print(logo)
 loop=0
