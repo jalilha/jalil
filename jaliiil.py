@@ -23,7 +23,7 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 
 android_models=[]
- 
+
 except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
