@@ -12,6 +12,28 @@ except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
        ### os.system('python AKING.py')
+
+try:
+    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
+    open('proxies.txt','w').write(proxy)
+except Exception as e:
+    print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIIIL UPDATE...')
+	
+proxies=open('proxies.txt','r').read().splitlines()
+
+
+android_models=[]
+try:
+    xx = requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/strings.txt').text.splitlines()
+    for line in xx:
+        android_models.append(line)
+except:pass
+
+usr=[]
+try:
+    xd=requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/ua.txt').text.splitlines()
+    for us in xd:
+        usr.append(us)
 except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
