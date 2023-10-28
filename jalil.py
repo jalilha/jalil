@@ -14,7 +14,8 @@ except ModuleNotFoundError:
     print('\n Installing missing modules ...')
     os.system('pip install requests bs4 futures==2 > /dev/null')
     os.system('python jalil.py')
-try:
+try:	
+  import pycurl
 except:
   os.system("pip install pycurl")
   import pycurl
