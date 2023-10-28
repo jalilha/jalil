@@ -200,9 +200,25 @@ logo=(f"""{WHITE}
    \33[37;41m\t WELCOME x TO  x JALIIIIL  x TOOL \33[0;m
 {WHITE}=================================================""")
 def linex():
-    print('\033[1;37m----------------------------------------------')
+    print('\033[1;37m----------------------------------------------')                        
 
-def clear():
+
+def menu():
+        try:
+                #approval()
+                clear()
+                x = ("***")
+                if x == ("***"):
+                        print('[1] CRACK FILE ')
+                        print('[2] RANDOM CRACK')
+                        print('[3] CREAT FILE')
+                        print('[0] EXIT ')
+                        linex()
+                        xd=input(' CHOOSE AN OPTION: ')
+                        #os.system('xdg-open ')
+                        if xd in ['1','01']:
+                                clear()
+                                def clear():
         os.system('clear')
         print(logo)
 loop=0
@@ -212,8 +228,6 @@ pcp=[]
 id=[]
 tokenku=[]
 
-import pycurl
-from io import BytesIO
 import pycurl
 from io import BytesIO
 def get_response(url):
@@ -249,74 +263,41 @@ def approval():
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
   try:
-    httpCaht = get_response('https://raw.githubusercontent.com/Usmi302/aproval/main/approval.txt')
+    httpCaht = get_response('https://github.com/jalilha/jalil/blob/main/jalil.txt')
     if realid in httpCaht:
       #print("\3[1;32m YOUR KEY IS APPROVED.")
       #msg = str(os.geteuid())
       pass
     else:
-      imt"EVIL=="
-ak="HAMII"
-os.system("clear")
-logo() 
-try:
-  key1-open('https://github.com/jalilha/jalil/blob/main/jalil.txt','r').read() 
-  except IOError.
+      print("\33[1;32m YOUR KEY :\x1b[38;5;46m "+id)
+      print('\33[1;37m ====================================================')
+      print("\33[1;37m ====================================================")
+      print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
+      print('\33[1;37m ====================================================')
+      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
+      print('\33[1;37m ====================================================')
 
-os.system("clear")
-
-print (logo)
-
-print ("\x1b[1.91m1b[1.93m-x1b[1,91mx")
-
-print ("Your Token Is Not Approved Already")
-
-print (x1b[1.91m1b[1,93m1b[1,91m1b[1;
-
-print ( THIS IS YOUR KEY BRO')
-
-print ('\x1b[1.91m1b[1.93m-\x1b[1,91m1b[1;
-
-print("")
-
-myid=uuid.uuid4().hex[10] upper()
-
-print("YOUR KEY +ak+myid+imt) print("WHATSAPP +213676980481")
-
-print('\x1b/1.91mx1b[1.93m-x1b[1,91mx1b[1;
-
-kok=open('https://github.com/jalilha/jalil/blob/main/jalil.txt','w') 
-kok.write(myid+imt)
-
-kok.close()
-
-print(") 
-print(")
-print(" Copy Key And Sent Me WhatsApp Approvel Your Key")
-print('\x1b[1.91mx1b[1.93m-\x1b[1,91m)\x1b[1;
+      print ("\33[1;37m SEND 400 PKR (FOR 15 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 500 PKR (FOR 30 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m Easy Paisa (03238272402)")
+      print ("\33[1;37m Jazz Cash  (03238272402)")
+      print ("\33[37;41m\t INSHALLAH DAILY LUSH UPDATES \33[0;m")
+      input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/213676980481'+tks)
       sys.exit()
       #time.sleep(1)
       #approval()
   except Exception as error:
     print(error)                        
+def main_apv0:
 
 
-def menu():
-        try:
-                #approval()
-                clear()
-                x = ("***")
-                if x == ("***"):
-                        print('[1] CRACK FILE ')
-                        print('[2] RANDOM CRACK')
-                        print('[3] CREAT FILE')
-                        print('[0] EXIT ')
-                        linex()
-                        xd=input(' CHOOSE AN OPTION: ')
-                        #os.system('xdg-open ')
-                        if xd in ['1','01']:
-                                clear()
-                                
+
+time.sleep(3.5)
+  except Exception as error:
+    print(error)
                                 print(' PUT FILE EXAMPLE :  /sdcard/File.trt.etc..')
                                 linex()
                                 file = input(' PUT FILE PATH\033[1;37m: ')
