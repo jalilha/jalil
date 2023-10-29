@@ -141,7 +141,7 @@ def approval():
     print(error)                        
 def main_apv():
 	def linex():
-        print('\033[1;37m----------------------------------------------')
+        
 def clear():
         os.system('clear')
         print(logo)
