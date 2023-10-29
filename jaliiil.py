@@ -287,7 +287,7 @@ def public():
 
 def menu():
         try:
-def clear()
+		clear()
         #       chk()
                 x = ("sex")
                 if x == ("sex"):
