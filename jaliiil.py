@@ -3,7 +3,28 @@
 
 from os import path
 import os,base64,zlib,pip,urllib
+try:
+    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt).text
+    open('proxies.txt','w').write(proxies)
+except Exception as e:
+    print('\x1b[1;92m[√] PLEASE WAIT CHECKIG JALIL UPDATE...')
+	
+proxies=open('proxies.txt','r').read().splitlines()
 
+
+android_models=[]
+try:
+    xx = requests.get(https://github.com/jalilha/jalil/blob/main/strings.txt').text.splitlines()
+    for line in xx:
+        android_models.append(line)
+except:pass
+
+usr=[]
+try:
+    xd=requests.get('https://github.com/jalilha/jalil/blob/main/ua.txt').text.splitlines()
+    for us in xd:
+        usr.append(us)
+except: pass
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -11,7 +32,7 @@ try:
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
-       ### os.system('python AKING.py')
+       ### os.system('python jalil.py')
 except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
