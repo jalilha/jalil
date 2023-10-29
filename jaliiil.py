@@ -99,8 +99,7 @@ logo=("""
 def line():
     print(f'================================================')
 #####_____Def-Clear_____#####
-
-	def linex():
+def linex():
 		def clear():
 			os.system('clear')
 			print(logo)
