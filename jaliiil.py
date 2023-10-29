@@ -142,7 +142,7 @@ def approval():
 def main_apv():
 	def linex():
         
-def clear():
+	def clear():
         os.system('clear')
         print(logo)
 loop=0
