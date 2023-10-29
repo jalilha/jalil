@@ -104,16 +104,16 @@ def clear():
         print(logo)
 def home():
   clear()
-  key=input(f"{W} [•]{G} Enter Fake Key {W}: ")
+  key=input(f"[•]{G} Enter Fake Key:")
   line()
   k1,k2,k3,k4=key[:4],key[3:6],key[4:9],key[9:]
   intuid=int(key.split("#")[0])
   pref=str((intuid-104729)*2-37+(1-2**7))
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
-  print(f"{W} [•]{G} Real Key :{W} {realid}")
+  print(f"[•]{G} Real Key: {realid}")
   line()
-  input(f"{W} [•]{G} Press Enter For Next Key ")
+  input(f"[•]{G} Press Enter For Next Key ")
 while True:
   home()
 
