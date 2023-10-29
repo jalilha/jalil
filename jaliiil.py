@@ -95,6 +95,27 @@ logo=("""
 \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m0.1
 \33[1;32m
 ──────────────────────────────────────────────""")
+#####_____Def-Line_____#####
+def line():
+    print(f'{W} ================================================')
+#####_____Def-Clear_____#####
+def clear():
+        os.system('clear')
+        print(logo)
+def home():
+  clear()
+  key=input(f"{W} [•]{G} Enter Fake Key {W}: ")
+  line()
+  k1,k2,k3,k4=key[:4],key[3:6],key[4:9],key[9:]
+  intuid=int(key.split("#")[0])
+  pref=str((intuid-104729)*2-37+(1-2**7))
+  suff=str((intuid-523217)%104729)
+  realid=(suff+k3+k1+k4+k2+pref).encode().hex()
+  print(f"{W} [•]{G} Real Key :{W} {realid}")
+  line()
+  input(f"{W} [•]{G} Press Enter For Next Key ")
+while True:
+  home()
 
 def linex():
         print('\033[1;37m----------------------------------------------')
