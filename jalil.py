@@ -188,15 +188,15 @@ logo=(f"""{WHITE}
     888   .88ooo8888.    888          888   888         
     888  .8'     `888.   888       o  888   888       o 
 .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P    
-                            {GREEN}A {RED}L {WHITE}G
+`Y888P    {GREEN}A {RED}L {WHITE}G
+________________________________________________________________________________                            
 
 \t[×] Developed By JALIL{EXTRA}
 {WHITE}[•] TELEGRAM    : ITZJALIL0
 {WHITE}[•] ADMIN       : JALIL
 {WHITE}[•] WhatsApp    : +213676980481
-[•] FACEBOOK    :  H. M. Jalil
-[•] Version     :  {RED}1.2
+[•] FACEBOOK    : H. M. Jalil
+[•] Version     : {RED}1.2
 
 {WHITE}================================================
    \33[37;41m\t WELCOME  TO   JALIIIL   TOOL \33[0;m
