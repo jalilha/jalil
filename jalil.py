@@ -180,24 +180,25 @@ BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
 #________________________________________#
 
-logo=(f"""{YELLOW}
-(___  ___)   (    )   (_   _)      (_   _) (_   _)     
-     ) )      / /\ \     | |          | |     | |       
-    ( (      ( (__) )    | |          | |     | |       
- __  ) )      )    (     | |   __     | |     | |   __  
-( (_/ /      /  /\  \  __| |___) )   _| |__ __| |___) ) 
- \___/      /__(  )__\ \________/   /_____( \________/ 
-{GREEN}A {RED}L {WHITE}G
+logo=(f"""{WHITE}
+_____ooo____ooo____oo______oooo_oo______
+______oo__oo___oo__oo_______oo__oo______
+______oo_oo_____oo_oo_______oo__oo______
+oo____oo_ooooooooo_oo_______oo__oo______
+oo____oo_oo_____oo_oo_______oo__oo______
+_ooooo___oo_____oo_ooooooo_oooo_ooooooo_
+________________________________________
+                 {GREEN}A {RED}L {WHITE}G
 
-\t[×] Developed By Jaliiil{EXTRA}
-{WHITE}[•] TELEGRAM    : itzjalil0
-{WHITE}[•] ADMIN       : JALIIIL
+\t[×] Developed By JALIL{EXTRA}
+{WHITE}[•] TELEGRAM    : ITZJALIL0
+{WHITE}[•] ADMIN       : JALIL
 {WHITE}[•] WhatsApp    :   +213676980481
-[•] FACEBOOK     :   H. M. Jalil
-[•] Version      :   {RED}1.0.0
+[•] FACEBOOK    :   H. M. Jalil
+[•] Version     :   {RED}1.2
 
 {WHITE}================================================
-   \33[37;41m\t WELCOME x TO  x JALIIIIL  x TOOL \33[0;m
+   \33[37;41m\t WELCOME  TO   JALIIIL   TOOL \33[0;m
 {WHITE}=================================================""")
 def linex():
     print('\033[1;37m----------------------------------------------')
