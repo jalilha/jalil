@@ -142,8 +142,8 @@ def approval():
 def main_apv():
 	def linex():
 		def clear():
-	os.system('clear')
-	print(logo)
+			os.system('clear')
+			print(logo)
 loop=0
 oks=[]
 cps=[]
