@@ -34,7 +34,7 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 android_models=[]
 try:
-    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings.txt').text.splitlines()
+    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings..txt').text.splitlines()
     for line in xx:
         android_models.append(line)
 except:pass
@@ -61,7 +61,7 @@ for xd in range(10000):
     uaku2=f'{aa} {b}; {c}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
 for agent in range(10000):
-    aa='Mozilla/5.0 (Linux; Android 6.0.1;'
+    aa='Mozilla/5.0 (Linux; Android 13;'
     b=random.choice(['6','7','8','9','10','11','12','13'])
     c='en-us; 10; T-Mobile myTouch 3G Slide Build/GRI40)I148V)'
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -91,7 +91,7 @@ for mtc in range(10000):
 #new ua
 ugen=[]
 for agent in range(10000):
-        aa='Mozilla/5.0 (Linux; Android 6.0.1;'
+        aa='Mozilla/5.0 (Linux; Android 11;'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -196,7 +196,7 @@ _______________________________________________________
 {WHITE}[•] TELEGRAM    : ITZJALIL0
 {WHITE}[•] ADMIN       : JALIL
 {WHITE}[•] WhatsApp    : +213676980481
-[•] FACEBOOK    : H. M. Jalil
+[•] FACEBOOK    : H. M. JALIL
 [•] Version     : {RED}1.2
 
 {WHITE}================================================
@@ -646,7 +646,7 @@ xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT
 def api(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD ] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
