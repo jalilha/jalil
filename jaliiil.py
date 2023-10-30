@@ -252,8 +252,7 @@ def menu():
         try:
                 approval()
                 #clear()
-             
-def login():
+             def login():
         clear()
         cookies = input(' Put cookies: ')
         try:
