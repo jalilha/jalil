@@ -206,7 +206,7 @@ def linex():
 def clear():
         os.system('clear')
         print(logo)
-	def approval():
+def approval():
   os.system('clear')
   print(logo)
   import platform
