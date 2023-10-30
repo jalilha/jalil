@@ -276,8 +276,8 @@ def approval():
 
 def menu():
         try:
-                #approval()
-                clear()
+                approval()
+                #clear()
                 x = ("***")
                 if x == ("***"):
                         print('[1] CRACK FILE ')
