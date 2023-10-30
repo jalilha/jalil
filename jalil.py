@@ -34,15 +34,15 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 android_models=[]
 try:
-    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings..txt').text.splitlines()
+    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings.txt').text.splitlines()
     for line in xx:
         android_models.append(line)
 except:pass
 
 usr=[]
 try:
-    xd=requests.get('https://github.com/jalilha/jalil/blob/main//ua.txt').text.splitlines()
-    for us in xd:
+    xd=requests.get('https://github.com/jalilha/jalil/blob/main/ua.txt').text.splitlines()
+    for us in xd:https://github.com/jalilha/jalil/blob/main//ua.txt
         usr.append(us)
 except: pass
 
@@ -251,7 +251,7 @@ def approval():
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
   try:
-    httpCaht = get_response('https://github.com/jalilha/jalil/tree/main')
+    httpCaht = get_response('https://github.com/jalilha/jalil/blob/main/jalil.txt')
     if realid in httpCaht:
       #print("\3[1;32m YOUR KEY IS APPROVED.")
       #msg = str(os.geteuid())
