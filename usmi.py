@@ -280,7 +280,6 @@ def approval():
 def menu():
         try:
                 #approval()
-                clear()
                 x = ("***")
                 if x == ("***"):
                         print('[1] CRACK FILE ')
