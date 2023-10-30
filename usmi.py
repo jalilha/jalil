@@ -202,39 +202,6 @@ db    db .d8888. .88b  d88. d888888b d888888b
 {WHITE}=================================================""")
 def linex():
     print('\033[1;37m----------------------------------------------')
-
-def clear():
-        os.system('clear')
-        print(logo)
-loop=0
-oks=[]
-cps=[]
-pcp=[]
-id=[]
-tokenku=[]
-import pycurl
-from io import BytesIO
-def get_response(url):
-    response_buffer = BytesIO()
-
-    curl = pycurl.Curl()
-    curl.setopt(curl.URL, url)
-    curl.setopt(curl.WRITEDATA, response_buffer)
-
-    try:
-        curl.perform()
-    except pycurl.error as e:
-        return f"Error: {e}"
-
-    response = response_buffer.getvalue().decode('utf-8')
-    curl.close()
-
-    return response
-
-def remove_symbols_and_spaces(input_string):
-    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
-    return cleaned_string
-    
 def approval():
   os.system('clear')
   print(logo)
@@ -279,9 +246,41 @@ def approval():
 
 def menu():
         try:
-                #approval()
+            #approval()
                 x = ("***")
                 if x == ("***"):
+def clear():
+        os.system('clear')
+        print(logo)
+loop=0
+oks=[]
+cps=[]
+pcp=[]
+id=[]
+tokenku=[]
+import pycurl
+from io import BytesIO
+def get_response(url):
+    response_buffer = BytesIO()
+
+    curl = pycurl.Curl()
+    curl.setopt(curl.URL, url)
+    curl.setopt(curl.WRITEDATA, response_buffer)
+
+    try:
+        curl.perform()
+    except pycurl.error as e:
+        return f"Error: {e}"
+
+    response = response_buffer.getvalue().decode('utf-8')
+    curl.close()
+
+    return response
+
+def remove_symbols_and_spaces(input_string):
+    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
+    return cleaned_string
+    
                         print('[1] CRACK FILE ')
                         print('[2] RANDOM CRACK')
                         print('[3] CREAT FILE')
