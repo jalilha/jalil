@@ -89,7 +89,23 @@ for agent in range(10000):
         l='Mobile Safari/537.36[FBAN/EMA;FBLC/ta_IN;FBAV/331.0.0.9.105;]'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)      
+try:
+    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
+    open('proxies.txt','w').write(proxies)
+except Exception as e:
+    print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIL GULL UPDATE...')
+	
+proxies=open('proxies.txt','r').read().splitlines()
 
+
+android_models=[]
+try:
+    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings.txt').text.splitlines()
+    for line in xx:
+        android_models.append(line)
+except:pass
+
+usr=[]
 def uaku():
 	try:
 		ua=open('ua.txt','r').read().splitlines()
@@ -102,24 +118,7 @@ def uaku():
 		for un in aa:
 			ua.write(un+'\n') 
 		ua=open('.ua.txt','r').read().splitlines()
-		try:
-    prox = requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/proxies.txt').text
-    open('proxies.txt','w').write(proxies)
-	
-proxies=open('proxies.txt','r').read().splitlines()
-
-
-android_models=[]
-try:
-    xx = requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/strings.txt').text.splitlines()
-    for line in xx:
-        android_models.append(line)
-except:pass
-
-usr=[]
        
-
-
 logo=(f"""\x1b[38;5;208m
      _       _        _        __     _      
      L]     /.\      FJ        FJ    FJ      
