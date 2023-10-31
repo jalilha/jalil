@@ -188,8 +188,6 @@ cps=[]
 pcp=[]
 id=[]
 tokenku=[]
-
-
 import pycurl
 from io import BytesIO
 def get_response(url):
