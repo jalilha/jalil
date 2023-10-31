@@ -252,7 +252,7 @@ def approval():
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
   try:
-    httpCaht = get_response(''https://github.com/jalilha/jalil/blob/main/jalil.txt')
+    httpCaht = get_response('https://github.com/jalilha/jalil/blob/main/jalil.txt')
     if realid in httpCaht:
       #print("\3[1;32m YOUR KEY IS APPROVED.")
       #msg = str(os.geteuid())
