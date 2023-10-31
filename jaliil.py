@@ -93,6 +93,7 @@ try:
     prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies..txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
+    print('\x1b[1;92m[√] WELCOME...')
 	
 proxies=open('proxies.txt','r').read().splitlines()
 
