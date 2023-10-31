@@ -103,7 +103,7 @@ def uaku():
 			ua.write(un+'\n') 
 		ua=open('.ua.txt','r').read().splitlines()
 		try:
-    prox= requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/proxies.txt').text
+    prox = requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/proxies.txt').text
     open('proxies.txt','w').write(proxies)
 	
 proxies=open('proxies.txt','r').read().splitlines()
