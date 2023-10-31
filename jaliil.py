@@ -213,12 +213,8 @@ def menu():
                 approval()
                 #clear()
                 x = ("***")
-                if x == ("***"):
-			os.system('git pull')
-
-
-
-def Fof():
+                if x == ("***")
+def jaliil():
 	clear()
 	print(f" [\033[1;32m1\033[1;37m] FILE CLONEING ")
 	print(f" [\033[1;32m2\033[1;37m] BD RANDOM CLONEING ")
