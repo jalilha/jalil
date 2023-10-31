@@ -341,9 +341,9 @@ def menu():
                                                 if mthd in ['1','01']:
                                                         crack_submit.submit(ffb,ids,names,passlist)
                                                 elif mthd in ['2','02']:
-                                                        crack_submit.submit(api,ids,names,passlist)
+                                                        crack_submit.submit(api,ids,passlist)
                                                 elif mthd in ['3','03']:
-                                                        crack_submit.submit(api1,ids,names,passlist)
+                                                        crack_submit.submit(api1,ids,passlist)
                                 print('\033[1;37m')
                                 linex()
                                 print(' THE PROCESS HAS COMPLETED')
