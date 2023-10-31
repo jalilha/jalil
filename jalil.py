@@ -196,7 +196,7 @@ _______________________________________________________
 {WHITE}[•] ADMIN       : JALIL
 {WHITE}[•] WhatsApp    : +213676980481
 [•] FACEBOOK    : H. M. JALIL
-[•] Version     : {RED}1.5
+[•] Version     : {RED}1.2
 
 {WHITE}================================================
    \33[37;41m\t WELCOME  TO   JALIIIL   TOOL \33[0;m
