@@ -214,8 +214,8 @@ def menu():
                 #clear()
                 x = ("***")
                 if x == ("***"):
-                print(f' [\033[1;32m1\033[1;37m] FILE CLONEING ')
-                print(f' [\033[1;31m0\033[1;37m] Exit ')
+                print(' [\033[1;32m1\033[1;37m] FILE CLONEING ')
+                print(' [\033[1;31m0\033[1;37m] Exit ')
                 me=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
                 	if me in ["2", "02"]:
                 	os.system('python jaliil.py')
