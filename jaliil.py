@@ -90,8 +90,10 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)      
 try:
-    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
+    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies..txt').text
     open('proxies.txt','w').write(proxies)
+except Exception as e:
+	
 proxies=open('proxies.txt','r').read().splitlines()
 
 
