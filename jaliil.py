@@ -150,75 +150,9 @@ pcp=[]
 id=[]
 tokenku=[]
 os.system('git pull')
-import pycurl
-from io import BytesIO
-def get_response(url):
-    response_buffer = BytesIO()
-
-    curl = pycurl.Curl()
-    curl.setopt(curl.URL, url)
-    curl.setopt(curl.WRITEDATA, response_buffer)
-
-    try:
-        curl.perform()
-    except pycurl.error as e:
-        return f"Error: {e}"
-
-    response = response_buffer.getvalue().decode('utf-8')
-    curl.close()
-
-    return response
-
-d =f remove_symbols_and_spaces(input_string):
-    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
-    return cleaned_string
-    
-def approval():
-  os.system('clear')
-  print(logo)
-  import platform
-  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
-  id = remove_symbols_and_spaces(uuid)
-  k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
-  intuid=int(id.split("#")[0])
-  pref=str((intuid-104729)*2-37+(1-2**7))
-  suff=str((intuid-523217)%104729)
-  realid=(suff+k3+k1+k4+k2+pref).encode().hex()
-  try:
-    httpCaht = get_response('https://github.com/jalilha/jalil/blob/main/jalil.txt')
-    if realid in httpCaht:
-      #print("\3[1;32m YOUR KEY IS APPROVED.")
-      #msg = str(os.geteuid())
-      pass
-    else:
-      print("\33[1;32m YOUR KEY :\[JALIL-[38;5;46m "+id)
-      print('\33[1;37m ====================================================')
-      print("\33[1;37m ====================================================")
-      print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
-      print('\33[1;37m ====================================================')
-      print (" \33[37;41m\t WELCOME TO JALIIIL TOOL AND ENJOY \33[0;m")
-      print('\33[1;37m ====================================================')
-      
-      input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/213676980481'+tks)
-      sys.exit()
-      #time.sleep(1)
-      #approval()
-  except Exception as error:
-    print(error)                        
-
-
-def menu():
-        try:
-                approval()
-                #clear()
-                x = ("***")
-                if x == ("***"):
-def jaliil():
+def Fof():
 	clear()
 	print(f" [\033[1;32m1\033[1;37m] FILE CLONEING ")
-	print(f" [\033[1;32m2\033[1;37m] BD RANDOM CLONEING ")
-	#print(f" [3] Gmail Cloning")
 	print(f" [\033[1;31m0\033[1;37m] Exit")
 	me=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
 	if me in ["2", "02"]:
