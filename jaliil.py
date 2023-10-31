@@ -214,7 +214,7 @@ def menu():
                 #clear()
                 x = ("***")
                 if x == ("***"):
-os.system('git pull')
+			os.system('git pull')
 
 
 
