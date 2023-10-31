@@ -42,7 +42,7 @@ except:pass
 usr=[]
 try:
     xd=requests.get('https://github.com/jalilha/jalil/blob/main/ua.txt').text.splitlines()
-    for us in xd:
+    for us in xd:https://github.com/jalilha/jalil/blob/main//ua.txt
         usr.append(us)
 except: pass
 
