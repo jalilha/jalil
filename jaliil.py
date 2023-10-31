@@ -169,7 +169,7 @@ def get_response(url):
 
     return response
 
-def remove_symbols_and_spaces(input_string):
+d =f remove_symbols_and_spaces(input_string):
     cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
     return cleaned_string
     
@@ -213,7 +213,7 @@ def menu():
                 approval()
                 #clear()
                 x = ("***")
-                if x == ("***")
+                if x == ("***"):
 def jaliil():
 	clear()
 	print(f" [\033[1;32m1\033[1;37m] FILE CLONEING ")
