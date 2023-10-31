@@ -339,7 +339,7 @@ def menu():
                                                 ids = user.split('|')
                                                 passlist = plist
                                                 if mthd in ['1','01']:
-                                                        crack_submit.submit(ffb,ids,names,passlist)
+                                                        crack_submit.submit(ffb,ids,passlist)
                                                 elif mthd in ['2','02']:
                                                         crack_submit.submit(api,ids,passlist)
                                                 elif mthd in ['3','03']:
