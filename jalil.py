@@ -180,13 +180,15 @@ EXTRA ='\x1b[38;5;208m'
 BLEUxGREEN ='\033[1;96m'
 #________________________________________#
 logo=(f"""
-    {BLEUxGREEN}d88b  .d8b.  db      d888888b db      
-   `8P' d8' `8b 88        `88'   88      
-    {RED}88  88ooo88 88         88    88      
-    88  88~~~88 88         88    88      
-{BLEUxGREEN}db. 88  88   88 88booo.   .88.   88booo. 
-Y8888P  YP   YP Y88888P Y888888P Y88888P                                                                                              
-{WHITE}××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
+     {BLEUxGREEN}.::      .:       .::      .::.::      
+     .::     .: ::     .::      .::.::      
+     .::    .:  .::    .::      .::.::      
+     {RED}.::   .::   .::   .::      .::.::      
+     .::  .:::::: .::  .::      .::.::      
+{BLEUxGREEN}.:   .:: .::       .:: .::      .::.::      
+ .::::  .::         .::.::::::::.::.::::::::
+                                                                                                                                                                                      
+{WHITE}×××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
   [1;37m[+]Admin    :  {GREEN}JALIL
   [1;37m[+]Telegram : ITZJALIL0
   [1;37m[+]Status   : {RED}PAID
@@ -252,7 +254,7 @@ def approval():
       print("\33[1;37m ====================================================")
       print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
       print('\33[1;37m ====================================================')
-      print (" \33[37;41m\t WELCOME TO JALIIIL TOOL AND ENJOY \33[0;m")
+      print (" \33[37;41m\t WELCOME TO JALIIIL TOOL  \33[0;m")
       print('\33[1;37m ====================================================')
       
       input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
@@ -280,7 +282,7 @@ def menu():
                         if xd in ['1','01']:
                                 clear()
                                 
-                                print(' PUT FILE EXAMPLE :  /sdcard/File.trt.etc..')
+                                print(' PUT FILE EXAMPLE :  /sdcard/jalil.txt.etc..')
                                 linex()
                                 file = input(' PUT FILE PATH\033[1;37m: ')
                                 try:
@@ -290,9 +292,9 @@ def menu():
                                         time.sleep(1)
                                         menu()
                                 clear()
-                                print('[1] METHOD NEW (1)')
-                                print('[2] METHOD OLD/NEW (2)')
-                                print('[3] METHOD OLD (3)')
+                                print('[1] METHOD NEW(FAST) (1)')
+                                print('[2] METHOD MIX(BEST) (2)')
+                                print('[3] METHOD OLD(FAST) (3)')
                                 linex()
                                 mthd=input(' CHOOSE : ')
                                 linex()
@@ -322,7 +324,7 @@ def menu():
                                         total_ids = str(len(fo))
                                         
                                         print(' TOTAL ACCOUNT : \033[1;32m'+total_ids+f' ')
-                                        print("\033[1;37m CRACKING STARTED...\033[1;37m")
+                                        print("\033[1;37mWait;) \033[1;37m")
                                         linex()
                                         for user in fo:
                                                 ids,names = user.split('|')
@@ -335,7 +337,7 @@ def menu():
                                                         crack_submit.submit(api1,ids,names,passlist)
                                 print('\033[1;37m')
                                 linex()
-                                print(' THE PROCESS HAS COMPLETED')
+                                print(' THE CRAKING HAS COMPLETED')
                                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                                 linex()
                                 input(' PRESS ENTER TO BACK ')
