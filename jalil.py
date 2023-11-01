@@ -26,7 +26,7 @@ try:
     prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies.txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
-    print('\x1b[1;92m[√] PLEASE WAIT CHECKING JALIIIL UPDATE...')
+    print('\x1b[1;92m[√] WELCOME TO JALIIIL TOOL')
 	
 proxies=open('proxies.txt','r').read().splitlines()
 
@@ -187,7 +187,7 @@ logo=(f"""
     888   .88ooo8888.    888          888   888         
     {BLEUxGREEN}888  .8'     `888.   888       o  888   888       o 
 .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P                           {GREEN}A {RED}L {WHITE}G                                                                                                                                                                                      
+`Y888P                                             {GREEN}A {RED}L {WHITE}G                                                                                                                                                                                      
 {WHITE}×××××××××××××××××××××××××[1;93m××××××××××××××××[1;97m××××××××××××××××××××
   [1;37m[+]Admin    :  {GREEN}JALIL
   [1;37m[+]Telegram : ITZJALIL0
@@ -195,7 +195,7 @@ logo=(f"""
   [1;37m[+]Version  : 2.1
 {WHITE}×××××××××××××××××××××××××[1;93m××××××××××××××××[1;97m××××××××××××××××××××""")
 def linex():
-    print('{WHITE}×××××××××××××××××××××××××[1;93m××××××××××××××××[1;97m××××××××××××××××××××')
+    print('{WHITE}××××××××××××××××××××××[1;93m××××××××××××××××××[1;97m×××××××××××××××××××')
 
 def clear():
         os.system('clear')
