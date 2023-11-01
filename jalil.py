@@ -123,7 +123,7 @@ fbdm = '{density=2.0,height='+subprocess.check_output('getprop ro.hwui.text_larg
 try:
         fbcr = subprocess.check_output('getprop gsm.operator.alpha',shell=True).decode('utf-8').split(',')
         total = 0
-	for i in fbcr:
+for i in fbcr:
                 total+=1
         select = ('1','2')
         if select == '1':
