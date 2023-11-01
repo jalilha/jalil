@@ -123,7 +123,7 @@ fbdm = '{density=2.0,height='+subprocess.check_output('getprop ro.hwui.text_larg
 try:
         fbcr = subprocess.check_output('getprop gsm.operator.alpha',shell=True).decode('utf-8').split(',')
         total = 0
-        for i in fbcr:
+       for i in fbcr:
                 total+=1
         select = ('1','2')
         if select == '1':
@@ -177,32 +177,27 @@ BLUE = '\033[1;34m'
 ORANGE = '\033[1;35m'
 BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
+BLUExGREEN ='\033[1;36m'
 #________________________________________#
 
-logo=(f"""{WHITE}
-   oooo       .o.       ooooo        ooooo ooooo        
-   `888      .888.      `888'        `888' `888'        
-    888     .8"888.      888          888   888         
-    888    .8' `888.     888          888   888         
-    888   .88ooo8888.    888          888   888         
-    888  .8'     `888.   888       o  888   888       o 
-.o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P    {GREEN}A {RED}L {WHITE}G
-_______________________________________________________
-_______________________________________________________
-
-\t[×] Developed By JALIL{EXTRA}
-{WHITE}[•] TELEGRAM    : ITZJALIL0
-{WHITE}[•] ADMIN       : JALIL
-{WHITE}[•] WhatsApp    : +213676980481
-[•] FACEBOOK    : H. M. JALIL
-[•] Version     : {RED}2.0
-
-{WHITE}================================================
-   \33[37;41m\t WELCOME  TO  JALIIIL  TOOL \33[0;m
-{WHITE}=================================================""")
+logo=(f"""{BLUExGREEN}
+.   oooo       .o.       ooooo        ooooo ooooo        
+    `888      .888.      `888'        `888' `888'        
+     888     .8"888.      888          888   888         
+{RED}888    .8' `888.     888          888   888         
+     888   .88ooo8888.    888          888   888         
+     888  .8'     `888.   888       o  888   888       o 
+ .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
+ `Y888P    {GREEN}A {RED}L {WHITE}G
+1;97m×××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
+[1;37m[+]Admin:[1;92mJALIL
+[1;37m[+]Telegram:ITZJALIL0
+[1;37m[+]Status:PAID
+[1;37m[+]Version:2.1
+[1;97m×××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
+""")
 def linex():
-    print('\033[1;37m----------------------------------------------')
+    print('[1;97m×××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××')
 
 def clear():
         os.system('clear')
