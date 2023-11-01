@@ -180,14 +180,14 @@ EXTRA ='\x1b[38;5;208m'
 BLEUxGREEN ='\033[1;96m'
 #________________________________________#
 logo=(f"""
-{BLEUxGREEN}d88b  .d8b.  db      d888888b db      
+    {BLEUxGREEN}d88b  .d8b.  db      d888888b db      
    `8P' d8' `8b 88        `88'   88      
-{RED}88  88ooo88 88         88    88      
+    {RED}88  88ooo88 88         88    88      
     88  88~~~88 88         88    88      
 {BLEUxGREEN}db. 88  88   88 88booo.   .88.   88booo. 
 Y8888P  YP   YP Y88888P Y888888P Y88888P                                                                                              
 {WHITE}××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
-  [1;37m[+]Admin    : {GREEN}JALIL
+  [1;37m[+]Admin    :  {GREEN}JALIL
   [1;37m[+]Telegram : ITZJALIL0
   [1;37m[+]Status   : {RED}PAID
   [1;37m[+]Version  : 2.1
