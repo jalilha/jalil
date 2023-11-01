@@ -177,6 +177,7 @@ BLUE = '\033[1;34m'
 ORANGE = '\033[1;35m'
 BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
+BLUExGREEN ='\033[1;36m'
 #________________________________________#
 logo=(f"""{BLUExGREEN}
 .   oooo       .o.       ooooo        ooooo ooooo        
