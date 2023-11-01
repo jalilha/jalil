@@ -177,14 +177,14 @@ BLUE = '\033[1;34m'
 ORANGE = '\033[1;35m'
 BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
-BLEU×GREEN ='\033[1;96m'
+BLEUxGREEN ='\033[1;96m'
 #________________________________________#
 logo=(f"""
-{BLEU×GREEN}d88b  .d8b.  db      d888888b db      
+{BLEUxGREEN}d88b  .d8b.  db      d888888b db      
    `8P' d8' `8b 88        `88'   88      
 {RED}88  88ooo88 88         88    88      
     88  88~~~88 88         88    88      
-{BLEU×GREEN}db. 88  88   88 88booo.   .88.   88booo. 
+{BLEUxGREEN}db. 88  88   88 88booo.   .88.   88booo. 
 Y8888P  YP   YP Y88888P Y888888P Y88888P                                                                                              
 {WHITE}××××××××××××××××[1;93m××××××××[1;97m×××××××××××××××
   [1;37m[+]Admin    : {GREEN}JALIL
