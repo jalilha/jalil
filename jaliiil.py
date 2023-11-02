@@ -146,7 +146,7 @@ def approval():
   os.system('clear')
   print(logo)
   import platform
-  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
+  uuid = str(os.geteuid())+""+ platform.uname().machine+platform.uname().version+platform.uname().release
   id = remove_symbols_and_spaces(uuid)
   k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
   intuid=int(id.split("#")[0])
@@ -193,7 +193,7 @@ def menu():
                 #clear()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [0] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
@@ -235,7 +235,7 @@ def menu():
                                 with tred(max_workers=30) as crack_submit:
                                         clear()
                                         total_ids = str(len(fo))
-                                        print(' TOTAL ACCOUNT : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMETHOD -> \033[1;37mM{mthd}')
+                                        print(' TOTAL ACCOUNT : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMETHOD \033[1;33m>\033[1;36m> {GREEN}M{mthd}')
                                         print("\033[1;37m \x1b[38;5;208mUSE FLIGHT MODE FOR SPEED UP\033[1;37m")
                                         linex()
                                         for user in fo:
