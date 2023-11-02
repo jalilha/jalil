@@ -146,7 +146,7 @@ def approval():
   os.system('clear')
   print(logo)
   import platform
-  uuid = str(os.geteuid())+""+ platform.uname().machine+platform.uname().version+platform.uname().release
+  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
   id = remove_symbols_and_spaces(uuid)
   k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
   intuid=int(id.split("#")[0])
