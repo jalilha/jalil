@@ -94,13 +94,13 @@ logo=(f"""{WHITE}
     888   .88ooo8888.    888          888   888         
     888  .8'     `888.   888       o  888   888       o 
 .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P                              {GREEN}A {RED}L {WHITE}G
+`Y888P                                                {GREEN}A {RED}L {WHITE}G
 _______________________________________________________
 _______________________________________________________
 
 \t[×] Developed By {EXTRA}JALIL
- {WHITE}[•] Admin    :{GREEN}JALIL
- {WHITE}[•] Telegram       : ITZJALIL0
+ {WHITE}[•] Admin       :{RED}JALIL
+ {WHITE}[•] Telegram    : ITZJALIL0
  {WHITE}[•] WhatsApp    : +213676980481
  [•] Facebook    : H. M. JALIL
  [•] Version     : {RED}1.5
