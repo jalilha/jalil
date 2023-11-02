@@ -94,14 +94,14 @@ logo=(f"""{WHITE}
     888   .88ooo8888.    888          888   888         
     888  .8'     `888.   888       o  888   888       o 
 .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P                                                {GREEN}A {RED}L {WHITE}G
+`Y888P                              {GREEN}A {RED}L {WHITE}G
 _______________________________________________________
 _______________________________________________________
 
 \t[×] Developed By {EXTRA}JALIL
- {WHITE}[•] Admin       :{RED}JALIL
- {WHITE}[•] Telegram    : ITZJALIL0
- {WHITE}[•] WhatsApp    : +213676980481
+ {WHITE}[•] Admin    : {GREEN}JALIL
+ {WHITE}[•] Telegram       : ITZJALIL0
+ {WHITE}[•] WhatsApp    : {GREEN}+213676980481
  [•] Facebook    : H. M. JALIL
  [•] Version     : {RED}1.5
 
@@ -119,6 +119,79 @@ cps=[]
 pcp=[]
 id=[]
 tokenku=[]
+import pycurl
+from io import BytesIO
+def get_response(url):
+    response_buffer = BytesIO()
+
+    curl = pycurl.Curl()
+    curl.setopt(curl.URL, url)
+    curl.setopt(curl.WRITEDATA, response_buffer)
+
+    try:
+        curl.perform()
+    except pycurl.error as e:
+        return f"Error: {e}"
+
+    response = response_buffer.getvalue().decode('utf-8')
+    curl.close()
+
+    return response
+
+def remove_symbols_and_spaces(input_string):
+    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
+    return cleaned_string
+    
+def approval():
+  os.system('clear')
+  print(logo)
+  import platform
+  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
+  id = remove_symbols_and_spaces(uuid)
+  k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
+  intuid=int(id.split("#")[0])
+  pref=str((intuid-104729)*2-37+(1-2**7))
+  suff=str((intuid-523217)%104729)
+  realid=(suff+k3+k1+k4+k2+pref).encode().hex()
+  try:
+    httpCaht = get_response('https://raw.githubusercontent.com/jalilha/jalil/main/jalil.txt')
+    if realid in httpCaht:
+      #print("\3[1;32m YOUR KEY IS APPROVED.")
+      #msg = str(os.geteuid())
+      pass
+    else:
+      print("\33[1;32m YOUR KEY :\x1b[38;5;46m "+id)
+      print('\33[1;37m ====================================================')
+      print("\33[1;37m ====================================================")
+      print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
+      print('\33[1;37m ====================================================')
+      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
+      print('\33[1;37m ====================================================')
+
+      print ("\33[1;37m SEND 500 PKR (FOR 15 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 3 $ usd (FOR 15 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 700 PKR (FOR 30 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m SEND 5 $ usd (FOR 30 DAYS APPROVEL)")
+      print('\33[1;37m ====================================================')
+      print ("\33[1;37m Easy Paisa (03238272402)")
+      print ("\33[1;37m Jazz Cash  (03238272402)")
+      print ("\33[37;41m\t INSHALLAH DAILY LUSH UPDATES \33[0;m")
+      input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/923238272402'+tks)
+      sys.exit()
+      #time.sleep(1)
+      #approval()
+  except Exception as error:
+    print(error)                        
+
+
+def menu():
+        try:
+                approval()
+                #clear()
 def login():
         clear()
         cookies = input(' Put cookies: ')
@@ -227,8 +300,8 @@ def public():
                 with tred(max_workers=30) as crack_submit:
                         clear()
                         total_ids = str(len(id))
-                        print(' Total account : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMethod -> \033[1;37mM{mthd}')
-                        print("\033[1;37m \x1b[38;5;208mUse flight mode for speed up\033[1;37m")
+                        print(' Total account : \033[1;32m'+total_ids+f'{EXTRA}>> \033[1;37mMETHOD{EXTRA}>>{GREEN}M{mthd}')
+                        print("\033[1;37m \x1b[38;5;208mUSE FLIGHT MODE FOR SPEED UP\033[1;37m")
                         linex()
                         for user in id:
                                 ids,names = user.split('|')
@@ -300,8 +373,8 @@ def menu():
                                 with tred(max_workers=30) as crack_submit:
                                         clear()
                                         total_ids = str(len(fo))
-                                        print(' Total account : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMethod -> \033[1;37mM{mthd}')
-                                        print("\033[1;37m \x1b[38;5;208mUse flight mode for speed up\033[1;37m")
+                                        print(' TOTAL ACCOUNT : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMETHOD -> \033[1;37mM{mthd}')
+                                        print("\033[1;37m \x1b[38;5;208mUSE FLIGHT MODE FOR SPEED UP\033[1;37m")
                                         linex()
                                         for user in fo:
                                                 ids,names = user.split('|')
