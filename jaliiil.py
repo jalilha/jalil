@@ -99,7 +99,7 @@ _______________________________________________________
 _______________________________________________________
 
 \t[×] Developed By {EXTRA}JALIL
- {WHITE}[•] Admin       : {GREEN}JALIL
+ {WHITE}[•] Admin       : {RED}JALIL
  {WHITE}[•] Telegram    : ITZJALIL0
  {WHITE}[•] WhatsApp    : {GREEN}+213676980481
  {WHITE}[•] Facebook    : H. M. JALIL
@@ -154,7 +154,7 @@ def approval():
   suff=str((intuid-523217)%104729)
   realid=(suff+k3+k1+k4+k2+pref).encode().hex()
   try:
-    httpCaht = get_response('https://raw.githubusercontent.com/jalilhm/jalil/main/ua.txt')
+    httpCaht = get_response('https://raw.githubusercontent.com/jalilha/jalil/main/jalil.txt')
     if realid in httpCaht:
       #print("\3[1;32m YOUR KEY IS APPROVED.")
       #msg = str(os.geteuid())
@@ -168,19 +168,18 @@ def approval():
       print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
       print('\33[1;37m ====================================================')
 
-      print ("\33[1;37m SEND 500 PKR (FOR 15 DAYS APPROVEL)")
+      print ("\33[1;37m SEND 500DA (FOR 15 DAYS APPROVEL)")
       print('\33[1;37m ====================================================')
       print ("\33[1;37m SEND 3 $ usd (FOR 15 DAYS APPROVEL)")
       print('\33[1;37m ====================================================')
-      print ("\33[1;37m SEND 700 PKR (FOR 30 DAYS APPROVEL)")
+      print ("\33[1;37m SEND 900DA (FOR 30 DAYS APPROVEL)")
       print('\33[1;37m ====================================================')
       print ("\33[1;37m SEND 5 $ usd (FOR 30 DAYS APPROVEL)")
       print('\33[1;37m ====================================================')
-      print ("\33[1;37m Easy Paisa (03238272402)")
-      print ("\33[1;37m Jazz Cash  (03238272402)")
-      print ("\33[37;41m\t INSHALLAH DAILY LUSH UPDATES \33[0;m")
+      print ("\33[1;37m JALIL PHONE (+213676980481)")
+      print ("\33[37;41m\t SUBSCRIBE TO THE BEST TOOL NOW  \33[0;m")
       input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/923238272402'+tks)
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/213676980481'+tks)
       sys.exit()
       #time.sleep(1)
       #approval()
