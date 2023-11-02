@@ -34,7 +34,7 @@ try:
 	for line in xx:
 		android_models.append(line)
 except:pass
-			usr=[]
+	usr=[]
 try:
 	xd=requests.get('https://raw.githubusercontent.com/jalilhm/jalil/main/ua.txt').text.splitlines()
 for us in xd:
