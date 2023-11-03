@@ -1,5 +1,5 @@
 from os import path
-import os,base64,zlib,pip,urllib,time,random,tred
+import os,base64,zlib,pip,urllib,time,random,
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
 print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
@@ -11,6 +11,7 @@ time.sleep(2)
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
+        from concurrent.futures import ThreadPoolExecutor as tred
         from concurrent.futures import ThreadPoolExecutor as tred
 except ModuleNotFoundError:
         os.system(f'pip install requests futures==2 > /dev/null')
