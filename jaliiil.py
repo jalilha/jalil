@@ -2,8 +2,7 @@
 # Time Succes decompile : 2023-01-01 09:30:57.607344
 
 from os import path
-import os,base64,zlib,pip,urllib
-
+import os,zlib,pip,urllib
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
