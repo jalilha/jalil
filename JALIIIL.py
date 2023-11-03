@@ -198,13 +198,11 @@ def menu():
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
                                 clear()
-                                print(' Put file example:  /sdcard/File.txt  etc..')
+                                print(' PUT FILE EXAMPLE :  /sdcard/jalil.txt.etc..')
                                 linex()
-                                file=input('Put file path\033[1;37m:')
+                                file = input(' PUT FILE PATH\033[1;37m: ')
                                 try:
-				fo = open(file,'r').read().splitlines()
-				except FileNotFoundError:
-                                        #print(' File location not found ')
+                                        fo = open(file,'r').read().splitlines()
                                         time.sleep(1)
                                         menu()
                                 clear()
