@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Jalil)
+# Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-01-01 09:30:57.607344
 
 from os import path
@@ -11,7 +11,8 @@ try:
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
-       ### os.system('python jaliiil.py)except:pass
+       ### os.system('python JALIIIL.py')
+except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
 try:
@@ -21,7 +22,6 @@ except Exception as e:
     print('\033[1;34m[√] WELCOME TO JALIIIL TOOL')
 	
 proxies=open('proxies.txt','r').read().splitlines()
-
 
 android_models=[]
 try:
@@ -165,7 +165,7 @@ def approval():
       print("\33[1;37m ====================================================")
       print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
       print('\33[1;37m ====================================================')
-      print (" \33[37;41m\t WELCOME TO JALIL TOOL \33[0;m")
+      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
       print('\33[1;37m ====================================================')
 
       print ("\33[1;37m SEND 500DA (FOR 15 DAYS APPROVEL)")
@@ -210,7 +210,7 @@ def menu():
                                 clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
-                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for mix ids)\n [3] Method 3 (for old ids)')
+                                print(' [1] Method 1 (for new ids) \n [2] Method 2 (for old ids)\n [3] Method 3 (for old ids)')
                                 linex()
                                 mthd=input(' Choose: ')
                                 linex()
@@ -253,7 +253,7 @@ def menu():
                                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                                 linex()
                                 input(' Press enter to back ')
-                                os.system('python jaliiil.py')
+                                os.system('python JALIIIL.py')
                         elif xd in ['2','02']:
                                 import dump
                                 dump.Main()
@@ -296,7 +296,7 @@ def menu():
                         input(" Choose Option : ")
                         linex()
                         subprocess.check_output(["am", "start", url_wa+(tks)]);time.sleep(2)
-                        print(' Run :  python jaliiil.py')
+                        print(' Run :  python JALIIIL.py')
                         exit()
         except ValueError:
                 exit()
@@ -332,7 +332,7 @@ def pak():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('python jaliiiil.py')
+                os.system('python JALIIIL.py')
 def bd():
                 user=[]
                 clear()
@@ -362,7 +362,7 @@ def bd():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('python jaliiil.py')
+                os.system('python JALIIIL.py')
 def gmail():
                 os.system('rm -rf .re.txt')
                 clear()
@@ -417,7 +417,7 @@ def gmail():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('python jaliiil.py')
+                os.system('python JALIIIL.py')
 def ffb(ids,names,passlist):
         global loop,oks,cps
         sys.stdout.write('\r\r\033[1;37m [JALIIIL-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
