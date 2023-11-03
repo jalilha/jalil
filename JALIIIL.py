@@ -234,7 +234,6 @@ def public():
 def menu():
         try:
                 clear()
-        #       chk()
                 x = ("sex")
                 if x == ("sex"):
                         print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [0] Exit menu')
@@ -251,7 +250,7 @@ def menu():
                                         print(' File location not found ')
                                         time.sleep(1)
                                         menu()
-                                clear()
+					clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
                                 print(' [1] Method 1 (for new ids) \n [2] Method 2 (for old ids)\n [3] Method 3 (for old ids)')
