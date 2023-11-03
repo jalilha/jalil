@@ -205,6 +205,8 @@ def menu():
                                         fo = open(file,'r').read().splitlines()
                                         time.sleep(1)
                                         menu()
+					except FileNotFoundError:
+                                        #print(' FILE LOCATION NOT FOUND ')
                                 clear()
                                 print(' All method working try 1 by 1 ')
                                 linex()
