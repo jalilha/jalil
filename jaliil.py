@@ -9,9 +9,8 @@ os.system('clear')
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
 try:
-        import os,requests,json,time,re,random,sys,uuid,string,subprocess
+        import os,requests,json,time,re,random,sys,uuid,string,subprocess,tred
         from string import *
-        from concurrent.futures import ThreadPoolExecutor as tred
         from concurrent.futures import ThreadPoolExecutor as tred
 except ModuleNotFoundError:
         os.system(f'pip install requests futures==2 > /dev/null')
