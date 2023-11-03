@@ -202,7 +202,7 @@ def menu():
                                 linex()
                                 file=input('Put file path\033[1;37m:')
                                 try:
-					fo=open(file,'r').read().splitlines()
+				fo = open(file,'r').read().splitlines()
 				except FileNotFoundError:
                                         #print(' File location not found ')
                                         time.sleep(1)
